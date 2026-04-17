@@ -3,6 +3,7 @@ layout: sidebar
 title: "Chapter 2 - Signs of Strength in a Reversal"
 chapter: 2
 ---
+nav_title: "Signs of Strength in a Reversal"
 
 # Chapter 2 - Signs of Strength in a Reversal
 

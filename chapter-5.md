@@ -3,6 +3,7 @@ layout: sidebar
 title: "Chapter 5 - Wedges and Other Three-Push Reversal Patterns"
 chapter: 5
 ---
+nav_title: "Wedges and Other Three-Push Reversal Patterns"
 
 # Chapter 5 - Wedges and Other Three-Push Reversal Patterns
 

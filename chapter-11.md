@@ -3,6 +3,7 @@ layout: sidebar
 title: "Chapter 11 - Key Times of the Day"
 chapter: 11
 ---
+nav_title: "Key Times of the Day"
 
 # Chapter 11 - Key Times of the Day
 

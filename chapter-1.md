@@ -3,6 +3,7 @@ layout: sidebar
 title: "Chapter 1 - Example of How to Trade a Reversal"
 chapter: 1
 ---
+nav_title: "Example of How to Trade a Reversal"
 
 # Chapter 1 - Example of How to Trade a Reversal
 

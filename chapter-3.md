@@ -3,6 +3,7 @@ layout: sidebar
 title: "Chapter 3 - Major Trend Reversal"
 chapter: 3
 ---
+nav_title: "Major Trend Reversal"
 
 # Chapter 3 - Major Trend Reversal
 

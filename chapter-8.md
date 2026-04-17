@@ -3,6 +3,7 @@ layout: sidebar
 title: "Chapter 8 - Double Top and Bottom Pullbacks"
 chapter: 8
 ---
+nav_title: "Double Top and Bottom Pullbacks"
 
 # Chapter 8 - Double Top and Bottom Pullbacks
 

@@ -3,6 +3,7 @@ layout: sidebar
 title: "Chapter 12 - Markets"
 chapter: 12
 ---
+nav_title: "Markets"
 
 # Chapter 12 - Markets
 

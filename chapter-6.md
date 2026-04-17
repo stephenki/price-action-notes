@@ -3,6 +3,7 @@ layout: sidebar
 title: "Chapter 6 - Expanding Triangles"
 chapter: 6
 ---
+nav_title: "Expanding Triangles"
 
 # Chapter 6 - Expanding Triangles
 

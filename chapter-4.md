@@ -3,6 +3,7 @@ layout: sidebar
 title: "Chapter 4 - Climactic Reversals: A Spike Followed by a Spike in the Opposite Direction"
 chapter: 4
 ---
+nav_title: "Climactic Reversals: A Spike Followed by a Spike in the Opposite Direction"
 
 # Chapter 4 - Climactic Reversals: A Spike Followed by a Spike in the Opposite Direction
 

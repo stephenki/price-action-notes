@@ -3,6 +3,7 @@ layout: sidebar
 title: "Chapter 10 - Huge Volume Reversals on Daily Charts"
 chapter: 10
 ---
+nav_title: "Huge Volume Reversals on Daily Charts"
 
 # Chapter 10 - Huge Volume Reversals on Daily Charts
 

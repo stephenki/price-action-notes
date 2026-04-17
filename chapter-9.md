@@ -3,6 +3,7 @@ layout: sidebar
 title: "Chapter 9 - Failures"
 chapter: 9
 ---
+nav_title: "Failures"
 
 # Chapter 9 - Failures
 

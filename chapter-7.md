@@ -3,6 +3,7 @@ layout: sidebar
 title: "Chapter 7 - Final Flags"
 chapter: 7
 ---
+nav_title: "Final Flags"
 
 # Chapter 7 - Final Flags
 
