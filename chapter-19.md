@@ -1,4 +1,10 @@
-# 价格行为学习 - 2026-04-12
+# Chapter 19 - 价格行为学习 - 2026-04-12
+
+> 原始文件: 2026-04-12.md
+> 整理时间: 2026-04-17
+
+---
+
 
 ## 今日学习内容
 - **章节**：Chapter 19 - Dueling Lines: Wedge Pullback to the Trend Line（决斗线：楔形回调至趋势线）
@@ -999,3 +1005,4 @@ Chapter 19 (决斗线 - 高概率回调入场)
 - @@ -119,4 @@ (118 before, 365 after) - 回撤至少持续10根K线或形成通道 - 这是Chapter 5回调交易的重要背景 **交易策略**： [confidence=0.63 evidence=memory/2026-03-30.md:119-122]
 - @@ -305,4 @@ (304 before, 106 after) Chapter 4: 如何入场（K线级别执行） Chapter 5: 回调交易（最高概率入场点） Chapter 6: 信号K线类型（Inside Bar识别） Chapter 7: Outside Bar交易策略 ← 你在这里 [confidence=0.63 evidence=memory/2026-03-31.md:305-308]
 <!-- openclaw:dreaming:rem:end -->
+

@@ -1,4 +1,10 @@
-# 价格行为学习 - 2026-04-10
+# Chapter 17 - 价格行为学习 - 2026-04-10
+
+> 原始文件: 2026-04-10.md
+> 整理时间: 2026-04-17
+
+---
+
 
 ## 今日学习内容
 - **章节**：Chapter 17 - Horizontal Lines: Swing Points and Other Key Price Levels（水平线：摆动点与其他关键价格水平）
@@ -276,3 +282,4 @@ Swing High 1 → Swing Low 1 → Swing High 2 (lower high) → Swing Low 2 (lowe
 - 学习基于 Al Brooks《Trading Price Action Trends》
 - 重点掌握 Swing Points 识别和 Role Reversal 应用
 - 下次学习 Chapter 18（趋势交易实例），将实践本章知识
+
