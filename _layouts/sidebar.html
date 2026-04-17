@@ -330,6 +330,13 @@
                   {% assign title_clean = raw_title %}
                 {% endif %}
                 
+                {# 清理可能残留的 "- " 前缀 #}
+                {% if title_clean starts_with '- ' %}
+                  {% assign title_clean = title_clean | remove_first: '- ' | strip %}
+                {% elsif title_clean starts_with '-' %}
+                  {% assign title_clean = title_clean | remove_first: '-' | strip %}
+                {% endif %}
+                
                 {% if chapter.url != page.url %}
                 <li><a href="{{ chapter.url | relative_url }}">Chapter {{ chapter.chapter }} - {{ title_clean }}</a></li>
                 {% else %}
