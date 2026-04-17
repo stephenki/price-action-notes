@@ -1,5 +1,12 @@
 title: 价格行为学习笔记
 description: Al Brooks Price Action Trading 学习笔记，涵盖 Chapter 1-25
 theme: minima
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: sidebar
 markdown: kramdown
 highlighter: rouge
