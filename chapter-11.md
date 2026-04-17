@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 11 - Key Times of the Day"
+chapter: 11
+---
+
 # Chapter 11 - Key Times of the Day
 
 > 来源: Book 1 - Reversal

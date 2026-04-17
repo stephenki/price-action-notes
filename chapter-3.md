@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 3 - Major Trend Reversal"
+chapter: 3
+---
+
 # Chapter 3 - Major Trend Reversal
 
 > 来源: Book 1 - Reversal

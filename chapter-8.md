@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 8 - Double Top and Bottom Pullbacks"
+chapter: 8
+---
+
 # Chapter 8 - Double Top and Bottom Pullbacks
 
 > 来源: Book 1 - Reversal

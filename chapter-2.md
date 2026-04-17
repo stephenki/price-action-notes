@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 2 - Signs of Strength in a Reversal"
+chapter: 2
+---
+
 # Chapter 2 - Signs of Strength in a Reversal
 
 > 来源: Book 1 - Reversal

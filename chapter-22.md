@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 22 - 价格行为学习 - 2026-04-23"
+chapter: 22
+---
+
 # Chapter 22 - 价格行为学习 - 2026-04-23
 
 > 原始文件: 2026-04-23.md

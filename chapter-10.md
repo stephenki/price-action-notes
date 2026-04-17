@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 10 - Huge Volume Reversals on Daily Charts"
+chapter: 10
+---
+
 # Chapter 10 - Huge Volume Reversals on Daily Charts
 
 > 来源: Book 1 - Reversal

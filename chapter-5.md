@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 5 - Wedges and Other Three-Push Reversal Patterns"
+chapter: 5
+---
+
 # Chapter 5 - Wedges and Other Three-Push Reversal Patterns
 
 > 来源: Book 1 - Reversal

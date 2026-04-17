@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 9 - Failures"
+chapter: 9
+---
+
 # Chapter 9 - Failures
 
 > 来源: Book 1 - Reversal

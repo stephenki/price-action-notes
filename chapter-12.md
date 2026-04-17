@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 12 - Markets"
+chapter: 12
+---
+
 # Chapter 12 - Markets
 
 > 来源: Book 1 - Reversal

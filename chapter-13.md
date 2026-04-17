@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 13 学习总结"
+chapter: 13
+---
+
 # 价格行为学习 - Chapter 13
 
 > 合并整理：2026-04-17

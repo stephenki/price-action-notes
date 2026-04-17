@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 7 - Final Flags"
+chapter: 7
+---
+
 # Chapter 7 - Final Flags
 
 > 来源: Book 1 - Reversal

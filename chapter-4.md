@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 4 - Climactic Reversals: A Spike Followed by a Spike in the Opposite Direction"
+chapter: 4
+---
+
 # Chapter 4 - Climactic Reversals: A Spike Followed by a Spike in the Opposite Direction
 
 > 来源: Book 1 - Reversal

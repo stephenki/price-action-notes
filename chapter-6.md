@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 6 - Expanding Triangles"
+chapter: 6
+---
+
 # Chapter 6 - Expanding Triangles
 
 > 来源: Book 1 - Reversal

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chapter 1 - Example of How to Trade a Reversal"
+chapter: 1
+---
+
 # Chapter 1 - Example of How to Trade a Reversal
 
 > 来源: Book 1 - Reversal
