@@ -22,20 +22,19 @@
 
 ```
 ├── README.md
-├── 2026-04-05.md  # Chapter 13 - Triangles and Flags
-├── 2026-04-06.md  # Chapter 13 - 完善完成
-├── 2026-04-07.md  # Chapter 14 - Parabolic and Overtrading
-├── 2026-04-08.md  # Chapter 15 - Pullbacks
-├── 2026-04-09.md  # Chapter 16 - Reversals
-├── 2026-04-10.md  # Chapter 17 - Horizontal Lines
-├── 2026-04-11.md  # Chapter 18 - Wedge Pullbacks
-├── 2026-04-12.md  # Chapter 19 - Dueling Lines
-├── 2026-04-21.md  # Chapter 20 - Gap Openings ⭐
-├── 2026-04-22.md  # Chapter 21 - Day Trading Examples ⭐
-├── 2026-04-23.md  # Chapter 22 - Multi-Timeframe Charts ⭐
-├── 2026-04-24.md  # Chapter 23 - Options ⭐
-├── 2026-04-25.md  # Chapter 24 - The Best Trades ⭐⭐⭐
-└── 2026-04-26.md  # Chapter 25 - Trading Guidelines ⭐
+├── chapter-13.md  # Triangles and Flags（已合并）
+├── chapter-14.md  # Parabolic and Overtrading
+├── chapter-15.md  # Pullbacks
+├── chapter-16.md  # Reversals
+├── chapter-17.md  # Horizontal Lines
+├── chapter-18.md  # Wedge Pullbacks
+├── chapter-19.md  # Dueling Lines
+├── chapter-20.md  # Gap Openings ⭐
+├── chapter-21.md  # Day Trading Examples ⭐
+├── chapter-22.md  # Multi-Timeframe Charts ⭐
+├── chapter-23.md  # Options ⭐
+├── chapter-24.md  # The Best Trades ⭐⭐⭐
+└── chapter-25.md  # Trading Guidelines ⭐
 ```
 
 > ⭐ 表示近期补充/完善的章节
@@ -43,24 +42,21 @@
 ---
 
 ## 🎯 核心主题索引
-
-| 章节 | 主题 | 状态 | 字数 |
-|------|------|------|------|
-| Ch 13 | 持续形态（三角、旗形） | ✅ | ~10 KB |
-| Ch 14 | 抛物线运动与过度交易 | ✅ | ~12 KB |
-| Ch 15 | 回调类型与入场策略 | ✅ | ~19 KB |
-| Ch 16 | 反转K线与反转结构 | ✅ | ~24 KB |
-| Ch 17 | 摆动点与关键价格水平 | ✅ | ~11 KB |
-| Ch 18 | 楔形与三推回调 | ✅ | ~15 KB |
-| Ch 19 | 决斗线形态 | ✅ | ~52 KB |
-| Ch 20 | 跳空开盘的交易意义 | ✅ | ~7 KB |
-| Ch 21 | 日内交易实例详解 | ✅ | ~7 KB |
-| Ch 22 | 多时间框架分析 | ✅ | ~8 KB |
-| Ch 23 | 期权基础与价格行为 | ✅ | ~8 KB |
-| Ch 24 | **全书总结：最佳交易** | ✅ | ~11 KB |
-| Ch 25 | **交易指南：准则与哲学** | ✅ | ~7 KB |
-
----
+| 章节 | 主题 | 状态 | 大小 |
+|---|---|---|---|
+| 13 | 持续形态（三角、旗形）合并版 | ✅ | 14.0 KB |
+| 14 | 抛物线运动与过度交易 | ✅ | 12.2 KB |
+| 15 | 回调类型与入场策略 | ✅ | 18.7 KB |
+| 16 | 反转K线与反转结构 | ✅ | 24.1 KB |
+| 17 | 摆动点与关键价格水平 | ✅ | 10.9 KB |
+| 18 | 楔形与三推回调 | ✅ | 15.1 KB |
+| 19 | 决斗线形态 | ✅ | 51.0 KB |
+| 20 | 跳空开盘的交易意义 | ✅ | 7.1 KB |
+| 21 | 日内交易实例详解 | ✅ | 7.1 KB |
+| 22 | 多时间框架分析 | ✅ | 7.6 KB |
+| 23 | 期权基础与价格行为 | ✅ | 8.2 KB |
+| 24 | 全书总结：最佳交易 | ✅ | 10.7 KB |
+| 25 | 交易指南：准则与哲学 | ✅ | 6.8 KB |
 
 ## 🔧 学习方式
 
