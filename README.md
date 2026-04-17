@@ -1,5 +1,8 @@
 # 📚 价格行为学习笔记 (Price Action Notes)
 
+**🌐 在线浏览**: [https://stephenki.github.io/price-action-notes/](https://stephenki.github.io/price-action-notes/)
+
+
 > Al Brooks《Trading Price Action》系列书籍学习总结
 
 本仓库包含对 Al Brooks 经典三部曲《Trading Price Action Trends/Ranges/Bars》的系统学习笔记，基于 Hermes Agent 自动提取和 AI 辅助整理。
