@@ -317,12 +317,14 @@
             
             <ul class="sidebar-nav">
                 <li class="nav-category">📖 章节列表 (1-25)</li>
-                {% assign sorted_pages = site.pages | where: "chapter", true | sort: "chapter" %}
-                {% for chapter in sorted_pages %}
+                {% assign chapter_pages = site.pages | where_exp: "p", "p.chapter" | sort: "chapter" %}
+                {% for chapter in chapter_pages %}
+                    {% assign ch_num = chapter.chapter | string %}
+                    {% assign title_clean = chapter.title | replace: 'Chapter ' | replace: ch_num | strip %}
                     {% if chapter.url != page.url %}
-                    <li><a href="{{ chapter.url | relative_url }}">Chapter {{ chapter.chapter }} - {{ chapter.title | replace: 'Chapter ' | replace: chapter.chapter | strip }}</a></li>
+                    <li><a href="{{ chapter.url | relative_url }}">Chapter {{ chapter.chapter }} - {{ title_clean }}</a></li>
                     {% else %}
-                    <li><a href="{{ chapter.url | relative_url }}" class="active">Chapter {{ chapter.chapter }} - {{ chapter.title | replace: 'Chapter ' | replace: chapter.chapter | strip }}</a></li>
+                    <li><a href="{{ chapter.url | relative_url }}" class="active">Chapter {{ chapter.chapter }} - {{ title_clean }}</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
