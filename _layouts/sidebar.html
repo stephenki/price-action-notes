@@ -317,31 +317,15 @@
             
             <ul class="sidebar-nav">
                 <li class="nav-category">📖 章节列表 (1-25)</li>
-                {% assign ch_num_str = chapter.chapter | string %}
-                {% assign prefix1 = 'Chapter ' | append: ch_num_str | append: ' - ' %}
-                {% assign prefix2 = 'Chapter ' | append: ch_num_str %}
-                {% assign raw_title = chapter.title %}
-                
-                {% if raw_title contains prefix1 %}
-                  {% assign title_clean = raw_title | remove: prefix1 | strip %}
-                {% elsif raw_title contains prefix2 %}
-                  {% assign title_clean = raw_title | remove: prefix2 | strip %}
-                {% else %}
-                  {% assign title_clean = raw_title %}
-                {% endif %}
-                
-                {# 清理可能残留的 "- " 前缀 #}
-                {% if title_clean starts_with '- ' %}
-                  {% assign title_clean = title_clean | remove_first: '- ' | strip %}
-                {% elsif title_clean starts_with '-' %}
-                  {% assign title_clean = title_clean | remove_first: '-' | strip %}
-                {% endif %}
-                
-                {% if chapter.url != page.url %}
-                <li><a href="{{ chapter.url | relative_url }}">Chapter {{ chapter.chapter }} - {{ title_clean }}</a></li>
-                {% else %}
-                <li><a href="{{ chapter.url | relative_url }}" class="active">Chapter {{ chapter.chapter }} - {{ title_clean }}</a></li>
-                {% endif %}
+                {% assign sorted_chapters = site.pages | where_exp: "p", "p.chapter" | sort: "chapter" %}
+                {% for chapter in sorted_chapters %}
+                  {% assign title_display = chapter.nav_title | default: chapter.title %}
+                  {% if chapter.url != page.url %}
+                  <li><a href="{{ chapter.url | relative_url }}">Chapter {{ chapter.chapter }} - {{ title_display }}</a></li>
+                  {% else %}
+                  <li><a href="{{ chapter.url | relative_url }}" class="active">Chapter {{ chapter.chapter }} - {{ title_display }}</a></li>
+                  {% endif %}
+                {% endfor %}
             </ul>
         </nav>
     </aside>
