@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sidebar
 title: "Chapter 3 - Major Trend Reversal"
 chapter: 3
 ---

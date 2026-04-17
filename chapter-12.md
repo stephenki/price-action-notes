@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sidebar
 title: "Chapter 12 - Markets"
 chapter: 12
 ---

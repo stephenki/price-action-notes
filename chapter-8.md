@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sidebar
 title: "Chapter 8 - Double Top and Bottom Pullbacks"
 chapter: 8
 ---

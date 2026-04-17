@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sidebar
 title: "Chapter 9 - Failures"
 chapter: 9
 ---

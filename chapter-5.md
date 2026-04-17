@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sidebar
 title: "Chapter 5 - Wedges and Other Three-Push Reversal Patterns"
 chapter: 5
 ---

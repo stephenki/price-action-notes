@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sidebar
 title: "价格行为学习笔记 - 目录"
 ---
 

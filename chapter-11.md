@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sidebar
 title: "Chapter 11 - Key Times of the Day"
 chapter: 11
 ---

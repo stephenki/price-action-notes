@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sidebar
 title: "Chapter 13 学习总结"
 chapter: 13
 ---

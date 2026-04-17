@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sidebar
 title: "Chapter 2 - Signs of Strength in a Reversal"
 chapter: 2
 ---

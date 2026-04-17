@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sidebar
 title: "Chapter 10 - Huge Volume Reversals on Daily Charts"
 chapter: 10
 ---

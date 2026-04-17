@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sidebar
 title: "Chapter 24 - 价格行为学习 - 2026-04-25"
 chapter: 24
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sidebar
 title: "Chapter 6 - Expanding Triangles"
 chapter: 6
 ---

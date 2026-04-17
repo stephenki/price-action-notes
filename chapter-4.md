@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sidebar
 title: "Chapter 4 - Climactic Reversals: A Spike Followed by a Spike in the Opposite Direction"
 chapter: 4
 ---

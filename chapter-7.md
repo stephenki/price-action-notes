@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sidebar
 title: "Chapter 7 - Final Flags"
 chapter: 7
 ---
