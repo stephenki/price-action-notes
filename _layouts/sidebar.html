@@ -317,8 +317,19 @@
             
             <ul class="sidebar-nav">
                 <li class="nav-category">📖 章节列表 (1-25)</li>
-                {% assign ch_prefix = 'Chapter ' | append: chapter.chapter | append: ' - ' %}
-                {% assign title_clean = chapter.title | remove: ch_prefix | strip %}
+                {% assign ch_num_str = chapter.chapter | string %}
+                {% assign prefix1 = 'Chapter ' | append: ch_num_str | append: ' - ' %}
+                {% assign prefix2 = 'Chapter ' | append: ch_num_str %}
+                {% assign raw_title = chapter.title %}
+                
+                {% if raw_title contains prefix1 %}
+                  {% assign title_clean = raw_title | remove: prefix1 | strip %}
+                {% elsif raw_title contains prefix2 %}
+                  {% assign title_clean = raw_title | remove: prefix2 | strip %}
+                {% else %}
+                  {% assign title_clean = raw_title %}
+                {% endif %}
+                
                 {% if chapter.url != page.url %}
                 <li><a href="{{ chapter.url | relative_url }}">Chapter {{ chapter.chapter }} - {{ title_clean }}</a></li>
                 {% else %}
