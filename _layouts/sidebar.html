@@ -300,7 +300,7 @@
     </style>
 </head>
 <body>
-    <button class="menu-toggle" onclick="toggleSidebar()">☰ 目录</button>
+    <button class="menu-toggle" onclick="toggleSidebar()">☰ 菜单</button>
     
     <aside class="sidebar">
         <div class="sidebar-header">
@@ -310,18 +310,22 @@
         
         <nav>
             <ul class="sidebar-nav">
-                <li class="nav-category">导航</li>
+                <li class="nav-category">📂 导航</li>
                 <li><a href="/" {% if page.url == '/' %}class="active"{% endif %}>📚 目录首页</a></li>
                 <li><a href="https://github.com/stephenki/price-action-notes" target="_blank">🐙 GitHub 仓库</a></li>
             </ul>
             
-            <li class="nav-category">章节列表</li>
-            {% for chapter in site.pages %}
-                {% if chapter.url contains 'chapter-' and chapter.url != page.url %}
-                <li><a href="{{ chapter.url | relative_url }}">{{ chapter.chapter }}. {{ chapter.title | replace: 'Chapter ' }}
-                    ({{ chapter.chapter }})</a></li>
-                {% endif %}
-            {% endfor %}
+            <ul class="sidebar-nav">
+                <li class="nav-category">📖 章节列表 (1-25)</li>
+                {% assign sorted_pages = site.pages | where: "chapter", true | sort: "chapter" %}
+                {% for chapter in sorted_pages %}
+                    {% if chapter.url != page.url %}
+                    <li><a href="{{ chapter.url | relative_url }}">Chapter {{ chapter.chapter }} - {{ chapter.title | replace: 'Chapter ' | replace: chapter.chapter | strip }}</a></li>
+                    {% else %}
+                    <li><a href="{{ chapter.url | relative_url }}" class="active">Chapter {{ chapter.chapter }} - {{ chapter.title | replace: 'Chapter ' | replace: chapter.chapter | strip }}</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
         </nav>
     </aside>
     
