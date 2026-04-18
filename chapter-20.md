@@ -1,7 +1,8 @@
 ---
 layout: sidebar
-title: "Chapter 20 - 价格行为学习 - 2026-04-21"
+title: "Chapter 20 学习总结"
 chapter: 20
+nav_title: "学习总结"
 ---
 nav_title: "价格行为学习 - 2026-04-21"
 

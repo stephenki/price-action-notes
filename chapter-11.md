@@ -2,6 +2,7 @@
 layout: sidebar
 title: "Chapter 11 学习总结"
 chapter: 11
+nav_title: "学习总结"
 ---
 nav_title: "学习总结"
 ```markdown
