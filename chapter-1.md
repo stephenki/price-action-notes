@@ -3,6 +3,17 @@ layout: sidebar
 title: "Chapter 1 学习总结"
 chapter: 1
 ---
+
+# 📚 价格行为学习总结 - Chapter 1: Introduction to Reversals（反转交易导论）
+
+**教材**: Al Brooks《Trading Price Action Reversals》Chapter 1  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Reversals (Z-Library).epub  
+**原始提取**: `/tmp/chapter1_full_extract.txt`
+
+---
+
+## 📖 本章核心概念
+
 ## 📖 本章核心概念
 
 ### 定义
