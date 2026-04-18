@@ -3,8 +3,16 @@ layout: sidebar
 title: "Chapter 4 学习总结"
 chapter: 4
 ---
-```markdown
-# 《Trading Price Action Trends》第四章：高潮反转（Climactic Reversals）专业学习总结
+
+# 📚 价格行为学习总结 - Chapter 4: Climactic Reversals（高潮反转）
+
+**教材**: Al Brooks《Trading Price Action Reversals》Chapter 4  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Reversals (Z-Library).epub  
+**原始提取**: `/tmp/chapter4_full_extract.txt`
+
+---
+
+## 📖 本章核心概念
 
 ## 1. 📖 本章核心概念
 
