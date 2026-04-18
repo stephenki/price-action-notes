@@ -3,8 +3,16 @@ layout: sidebar
 title: "Chapter 12 学习总结"
 chapter: 12
 ---
-```markdown
-# Chapter 12 学习总结：市场环境与交易工具选择
+
+# 📚 价格行为学习总结 - Chapter 12: Market Environment and Trading Tools（市场环境与交易工具选择）
+
+**教材**: Al Brooks《Trading Price Action Reversals》Chapter 12  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Reversals (Z-Library).epub  
+**原始提取**: `/tmp/chapter12_full_extract.txt`
+
+---
+
+## 📖 本章核心概念
 
 ## 核心导论：为何市场选择是交易成功的第一课
 
