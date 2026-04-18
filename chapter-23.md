@@ -4,13 +4,15 @@ title: "Chapter 23 学习总结"
 chapter: 23
 ---
 
-# Chapter 23 - 价格行为学习 - 2026-04-24
+# 📚 价格行为学习总结 - Chapter 23: Options（期权交易基础）
 
-> 原始文件: 2026-04-24.md
-> 整理时间: 2026-04-17
+**教材**: Al Brooks《Trading Price Action Trends》Chapter 23  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Trends (Z-Library).epub  
+**原始提取**: `/tmp/chapter23_full_extract.txt`
 
 ---
 
+## 📖 本章核心概念
 
 ## 📌 章节概览
 - **Chapter 23**: Options
