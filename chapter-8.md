@@ -3,7 +3,16 @@ layout: sidebar
 title: "Chapter 8 学习总结"
 chapter: 8
 ---
-# Chapter 8 学习总结：双顶与双底回调模式精解
+
+# 📚 价格行为学习总结 - Chapter 8: Reversal - The Perfect Reversal Day（完美反转日）
+
+**教材**: Al Brooks《Trading Price Action Reversals》Chapter 8  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Reversals (Z-Library).epub  
+**原始提取**: `/tmp/chapter8_full_extract.txt`
+
+---
+
+## 📖 本章核心概念
 
 ## 一、 核心概念与模式定义
 
