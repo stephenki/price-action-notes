@@ -4,11 +4,15 @@ title: "Chapter 13 学习总结"
 chapter: 13
 ---
 
-# 价格行为学习 - Chapter 13
+# 📚 价格行为学习总结 - Chapter 13: Triangles and Flags (三角形态与旗形整理)
 
-> 合并整理：2026-04-17
+**教材**: Al Brooks《Trading Price Action Trading Ranges》Chapter 13  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Trends (Z-Library).epub  
+**原始提取**: `/tmp/chapter13_full_extract.txt`
 
 ---
+
+## 📖 本章核心概念
 
 ## 部分 1（原始文件: 2026-04-05.md）
 
