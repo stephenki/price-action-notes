@@ -4,13 +4,15 @@ title: "Chapter 20 学习总结"
 chapter: 20
 ---
 
-# Chapter 20 - 价格行为学习 - 2026-04-21
+# 📚 价格行为学习总结 - Chapter 20: Gap Openings: Reversals and Continuations（跳空开盘：反转与持续）
 
-> 原始文件: 2026-04-21.md
-> 整理时间: 2026-04-17
+**教材**: Al Brooks《Trading Price Action Trends》Chapter 20  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Trends (Z-Library).epub  
+**原始提取**: `/tmp/chapter20_full_extract.txt`
 
 ---
 
+## 📖 本章核心概念
 
 ## 📌 章节概览
 - **Chapter 20**: Gap Openings: Reversals and Continuations
