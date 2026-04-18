@@ -3,8 +3,16 @@ layout: sidebar
 title: "Chapter 11 学习总结"
 chapter: 11
 ---
-```markdown
-# Chapter 11 学习总结：关键交易时段（Key Times of the Day）
+
+# 📚 价格行为学习总结 - Chapter 11: Reversal - Common Mistakes（常见错误）
+
+**教材**: Al Brooks《Trading Price Action Reversals》Chapter 11  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Reversals (Z-Library).epub  
+**原始提取**: `/tmp/chapter11_full_extract.txt`
+
+---
+
+## 📖 本章核心概念
 
 ## 一、 核心框架：交易日的三阶段模型
 
