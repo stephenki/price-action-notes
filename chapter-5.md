@@ -3,7 +3,16 @@ layout: sidebar
 title: "Chapter 5 学习总结"
 chapter: 5
 ---
-# Chapter 5 学习总结：楔形与三推反转形态
+
+# 📚 价格行为学习总结 - Chapter 5: Wedge and Three-Push Reversal Patterns（楔形与三推反转形态）
+
+**教材**: Al Brooks《Trading Price Action Reversals》Chapter 5  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Reversals (Z-Library).epub  
+**原始提取**: `/tmp/chapter5_full_extract.txt`
+
+---
+
+## 📖 本章核心概念
 
 ## 1. 三推反转形态的核心定义与统一市场逻辑
 
