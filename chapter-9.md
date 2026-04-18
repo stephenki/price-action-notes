@@ -3,7 +3,16 @@ layout: sidebar
 title: "Chapter 9 学习总结"
 chapter: 9
 ---
-# Chapter 9 学习总结：失败形态——市场陷阱与反向机会的深度解析
+
+# 📚 价格行为学习总结 - Chapter 9: Reversal - Multiple Bars and Gaps（多K线与跳空）
+
+**教材**: Al Brooks《Trading Price Action Reversals》Chapter 9  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Reversals (Z-Library).epub  
+**原始提取**: `/tmp/chapter9_full_extract.txt`
+
+---
+
+## 📖 本章核心概念
 
 ## 1. 核心概念：重新定义“失败”及其市场意义
 
