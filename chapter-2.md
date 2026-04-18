@@ -3,7 +3,17 @@ layout: sidebar
 title: "Chapter 2 学习总结"
 chapter: 2
 ---
-```markdown
+
+# 📚 价格行为学习总结 - Chapter 2: Reversal - Strong Signals（反转的强势信号）
+
+**教材**: Al Brooks《Trading Price Action Reversals》Chapter 2  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Reversals (Z-Library).epub  
+**原始提取**: `/tmp/chapter2_full_extract.txt`
+
+---
+
+## 📖 本章核心概念
+
 # 📈 Al Brooks《Trading Price Action Trends》Chapter 2 学习总结：反转的强势信号
 
 ## 1. 📖 本章核心概念
