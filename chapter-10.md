@@ -3,8 +3,16 @@ layout: sidebar
 title: "Chapter 10 学习总结"
 chapter: 10
 ---
-```markdown
-# Chapter 10 学习总结：日线巨量反转交易策略深度解析
+
+# 📚 价格行为学习总结 - Chapter 10: Reversal - Trading the Reversal（反转交易策略）
+
+**教材**: Al Brooks《Trading Price Action Reversals》Chapter 10  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Reversals (Z-Library).epub  
+**原始提取**: `/tmp/chapter10_full_extract.txt`
+
+---
+
+## 📖 本章核心概念
 
 ## 一、核心概念定义：什么是“巨量反转”？
 
