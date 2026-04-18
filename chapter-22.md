@@ -4,13 +4,15 @@ title: "Chapter 22 学习总结"
 chapter: 22
 ---
 
-# Chapter 22 - 价格行为学习 - 2026-04-23
+# 📚 价格行为学习总结 - Chapter 22: Daily, Weekly, and Monthly Charts（日线、周线与月线图）
 
-> 原始文件: 2026-04-23.md
-> 整理时间: 2026-04-17
+**教材**: Al Brooks《Trading Price Action Trends》Chapter 22  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Trends (Z-Library).epub  
+**原始提取**: `/tmp/chapter22_full_extract.txt`
 
 ---
 
+## 📖 本章核心概念
 
 ## 📌 章节概览
 - **Chapter 22**: Daily, Weekly, and Monthly Charts
