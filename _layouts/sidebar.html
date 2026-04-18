@@ -321,9 +321,9 @@
                 {% for chapter in sorted_chapters %}
                   {% assign title_display = chapter.nav_title | default: chapter.title %}
                   {% if chapter.url != page.url %}
-                  <li><a href="{{ chapter.url | relative_url }}">Chapter {{ chapter.chapter }} - {{ title_display }}</a></li>
+                  <li><a href="{{ chapter.url | relative_url }}">{{ title_display }}</a></li>
                   {% else %}
-                  <li><a href="{{ chapter.url | relative_url }}" class="active">Chapter {{ chapter.chapter }} - {{ title_display }}</a></li>
+                  <li><a href="{{ chapter.url | relative_url }}" class="active">{{ title_display }}</a></li>
                   {% endif %}
                 {% endfor %}
             </ul>
