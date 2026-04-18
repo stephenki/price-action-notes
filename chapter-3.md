@@ -3,7 +3,17 @@ layout: sidebar
 title: "Chapter 3 学习总结"
 chapter: 3
 ---
-```markdown
+
+# 📚 价格行为学习总结 - Chapter 3: Major Trend Reversal（主要趋势反转）
+
+**教材**: Al Brooks《Trading Price Action Reversals》Chapter 3  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Reversals (Z-Library).epub  
+**原始提取**: `/tmp/chapter3_full_extract.txt`
+
+---
+
+## 📖 本章核心概念
+
 ## 1. 📖 本章核心概念：什么是主要趋势反转？
 
 **主要趋势反转** 是指在图表上清晰可见的、由一轮完整趋势（牛市或熊市）转向相反趋势（熊市或牛市）的过程。它与图表上频繁发生的、未能改变主要趋势方向的**小级别反转**（如回调中的短暂反向摆动）有本质区别。
