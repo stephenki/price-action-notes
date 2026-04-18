@@ -4,13 +4,15 @@ title: "Chapter 24 学习总结"
 chapter: 24
 ---
 
-# Chapter 24 - 价格行为学习 - 2026-04-25
+# 📚 价格行为学习总结 - Chapter 24: The Best Trades: Putting It All Together（最佳交易：综合应用）
 
-> 原始文件: 2026-04-25.md
-> 整理时间: 2026-04-17
+**教材**: Al Brooks《Trading Price Action Trends》Chapter 24  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Trends (Z-Library).epub  
+**原始提取**: `/tmp/chapter24_full_extract.txt`
 
 ---
 
+## 📖 本章核心概念
 
 ## 📌 章节概览
 - **Chapter 24**: The Best Trades: Putting It All Together
