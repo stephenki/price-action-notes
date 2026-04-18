@@ -4,13 +4,15 @@ title: "Chapter 17 学习总结"
 chapter: 17
 ---
 
-# Chapter 17 - 价格行为学习 - 2026-04-10
+# 📚 价格行为学习总结 - Chapter 17: Horizontal Lines: Swing Points and Other Key Price Levels（水平线：摆动点与其他关键价格水平）
 
-> 原始文件: 2026-04-10.md
-> 整理时间: 2026-04-17
+**教材**: Al Brooks《Trading Price Action Trading Ranges》Chapter 17  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Trends (Z-Library).epub  
+**原始提取**: `/tmp/chapter17_full_extract.txt`
 
 ---
 
+## 📖 本章核心概念
 
 ## 今日学习内容
 - **章节**：Chapter 17 - Horizontal Lines: Swing Points and Other Key Price Levels（水平线：摆动点与其他关键价格水平）
