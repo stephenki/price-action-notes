@@ -4,7 +4,6 @@ title: "Chapter 12 学习总结"
 chapter: 12
 nav_title: "学习总结"
 ---
-nav_title: "学习总结"
 ```markdown
 # Chapter 12 学习总结：市场环境与交易工具选择
 

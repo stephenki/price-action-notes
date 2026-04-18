@@ -4,7 +4,6 @@ title: "Chapter 21 学习总结"
 chapter: 21
 nav_title: "学习总结"
 ---
-nav_title: "价格行为学习 - 2026-04-22"
 
 # Chapter 21 - 价格行为学习 - 2026-04-22
 

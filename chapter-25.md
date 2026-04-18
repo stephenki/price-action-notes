@@ -7,7 +7,6 @@ nav_title: "学习总结"
 
 # 📚 价格行为学习总结 - Chapter 25: Trend Resumption Day（趋势延续日）
 
-**学习日期**: 2026-04-18  
 **教材**: Al Brooks《Trading Price Action Trends》Chapter 25  
 **提取来源**: /Users/work-base/.hermes/cache/documents/Trading Price Action - Trends (Z-Library).epub  
 **原始提取**: `/tmp/chapter25_full_extract.txt`

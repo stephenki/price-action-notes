@@ -4,7 +4,6 @@ title: "Chapter 3 学习总结"
 chapter: 3
 nav_title: "学习总结"
 ---
-nav_title: "学习总结"
 ```markdown
 ## 1. 📖 本章核心概念：什么是主要趋势反转？
 

@@ -4,7 +4,6 @@ title: "Chapter 6 学习总结"
 chapter: 6
 nav_title: "学习总结"
 ---
-nav_title: "学习总结"
 # Chapter 6 学习总结：扩大三角形态 (Expanding Triangles)
 
 ## 1. 形态定义与核心特征

@@ -4,7 +4,6 @@ title: "Chapter 5 学习总结"
 chapter: 5
 nav_title: "学习总结"
 ---
-nav_title: "学习总结"
 # Chapter 5 学习总结：楔形与三推反转形态
 
 ## 1. 三推反转形态的核心定义与统一市场逻辑

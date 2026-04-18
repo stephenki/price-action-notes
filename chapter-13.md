@@ -4,7 +4,6 @@ title: "Chapter 13 学习总结"
 chapter: 13
 nav_title: "学习总结"
 ---
-nav_title: "学习总结"
 
 # 价格行为学习 - Chapter 13
 
