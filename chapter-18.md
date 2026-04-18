@@ -4,13 +4,15 @@ title: "Chapter 18 学习总结"
 chapter: 18
 ---
 
-# Chapter 18 - 价格行为学习 - 2026-04-11
+# 📚 价格行为学习总结 - Chapter 18: Wedge and Other Three-Push Pullbacks（楔形与其他三推回调）
 
-> 原始文件: 2026-04-11.md
-> 整理时间: 2026-04-17
+**教材**: Al Brooks《Trading Price Action Trading Ranges》Chapter 18  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Trends (Z-Library).epub  
+**原始提取**: `/tmp/chapter18_full_extract.txt`
 
 ---
 
+## 📖 本章核心概念
 
 ## 今日学习内容
 - **章节**：Chapter 18 - Wedge and Other Three-Push Pullbacks（楔形与其他三推回调）
