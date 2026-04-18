@@ -3,7 +3,16 @@ layout: sidebar
 title: "Chapter 6 学习总结"
 chapter: 6
 ---
-# Chapter 6 学习总结：扩大三角形态 (Expanding Triangles)
+
+# 📚 价格行为学习总结 - Chapter 6: Expanding Triangles（扩大三角形态）
+
+**教材**: Al Brooks《Trading Price Action Reversals》Chapter 6  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Reversals (Z-Library).epub  
+**原始提取**: `/tmp/chapter6_full_extract.txt`
+
+---
+
+## 📖 本章核心概念
 
 ## 1. 形态定义与核心特征
 
