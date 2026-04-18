@@ -2,7 +2,6 @@
 layout: sidebar
 title: "Chapter 25 学习总结"
 chapter: 25
-nav_title: "学习总结"
 ---
 
 # 📚 价格行为学习总结 - Chapter 25: Trend Resumption Day（趋势延续日）

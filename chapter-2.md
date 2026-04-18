@@ -2,7 +2,6 @@
 layout: sidebar
 title: "Chapter 2 学习总结"
 chapter: 2
-nav_title: "学习总结"
 ---
 ```markdown
 # 📈 Al Brooks《Trading Price Action Trends》Chapter 2 学习总结：反转的强势信号

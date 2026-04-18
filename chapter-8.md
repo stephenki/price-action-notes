@@ -2,7 +2,6 @@
 layout: sidebar
 title: "Chapter 8 学习总结"
 chapter: 8
-nav_title: "学习总结"
 ---
 # Chapter 8 学习总结：双顶与双底回调模式精解
 

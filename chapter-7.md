@@ -2,7 +2,6 @@
 layout: sidebar
 title: "Chapter 7 学习总结"
 chapter: 7
-nav_title: "学习总结"
 ---
 # Chapter 7 学习总结：最终旗形 (Final Flags)
 

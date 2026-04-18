@@ -2,7 +2,6 @@
 layout: sidebar
 title: "Chapter 19 学习总结"
 chapter: 19
-nav_title: "学习总结"
 ---
 
 # Chapter 19 - 价格行为学习 - 2026-04-12

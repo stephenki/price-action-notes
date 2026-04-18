@@ -2,7 +2,6 @@
 layout: sidebar
 title: "Chapter 11 学习总结"
 chapter: 11
-nav_title: "学习总结"
 ---
 ```markdown
 # Chapter 11 学习总结：关键交易时段（Key Times of the Day）

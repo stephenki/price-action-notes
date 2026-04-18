@@ -2,7 +2,6 @@
 layout: sidebar
 title: "Chapter 5 学习总结"
 chapter: 5
-nav_title: "学习总结"
 ---
 # Chapter 5 学习总结：楔形与三推反转形态
 

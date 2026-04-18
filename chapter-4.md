@@ -2,7 +2,6 @@
 layout: sidebar
 title: "Chapter 4 学习总结"
 chapter: 4
-nav_title: "学习总结"
 ---
 ```markdown
 # 《Trading Price Action Trends》第四章：高潮反转（Climactic Reversals）专业学习总结

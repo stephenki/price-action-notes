@@ -2,7 +2,6 @@
 layout: sidebar
 title: "Chapter 9 学习总结"
 chapter: 9
-nav_title: "学习总结"
 ---
 # Chapter 9 学习总结：失败形态——市场陷阱与反向机会的深度解析
 

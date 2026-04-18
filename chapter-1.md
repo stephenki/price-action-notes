@@ -2,7 +2,6 @@
 layout: sidebar
 title: "Chapter 1 学习总结"
 chapter: 1
-nav_title: "学习总结"
 ---
 ## 📖 本章核心概念
 
