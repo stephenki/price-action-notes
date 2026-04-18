@@ -3,7 +3,16 @@ layout: sidebar
 title: "Chapter 7 学习总结"
 chapter: 7
 ---
-# Chapter 7 学习总结：最终旗形 (Final Flags)
+
+# 📚 价格行为学习总结 - Chapter 7: Reversal - Failures and Continuations（反转失败与持续）
+
+**教材**: Al Brooks《Trading Price Action Reversals》Chapter 7  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Reversals (Z-Library).epub  
+**原始提取**: `/tmp/chapter7_full_extract.txt`
+
+---
+
+## 📖 本章核心概念
 
 ## 1. 定义与核心概念：什么是最终旗形？
 
