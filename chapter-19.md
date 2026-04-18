@@ -4,13 +4,15 @@ title: "Chapter 19 学习总结"
 chapter: 19
 ---
 
-# Chapter 19 - 价格行为学习 - 2026-04-12
+# 📚 价格行为学习总结 - Chapter 19: Dueling Lines: Wedge Pullback to the Trend Line（决斗线：楔形回调至趋势线）
 
-> 原始文件: 2026-04-12.md
-> 整理时间: 2026-04-17
+**教材**: Al Brooks《Trading Price Action Trading Ranges》Chapter 19  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Trends (Z-Library).epub  
+**原始提取**: `/tmp/chapter19_full_extract.txt`
 
 ---
 
+## 📖 本章核心概念
 
 ## 今日学习内容
 - **章节**：Chapter 19 - Dueling Lines: Wedge Pullback to the Trend Line（决斗线：楔形回调至趋势线）
