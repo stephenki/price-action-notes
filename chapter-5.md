@@ -95,16 +95,57 @@ chapter: 5
 
 ### 对比表格
 
-| 特征 | 楔形 Pullback | 楔形 Reversal |
-|------|---------------|---------------|
-| **趋势方向** | 与主要趋势一致 | 与主要趋势相反 |
-| **交易性质** | 顺趋势交易 | 逆趋势交易 |
-| **入场时机** | 第一信号即可 | 通常等待第二信号（如 pullback 后的更高低点/更低高点） |
-| **形态大小** | 较小（10-20 根K线） | 较大（≥20 根K线） |
-| **形态要求** | 不要求完美，三 pullbacks 即可 | 需清晰趋势通道线，明显 climax |
-| **典型位置** | 趋势中期的 flag | 趋势末期顶部/底部 |
-| **方向示例** | 牛市中的下跌楔形（向下） | 牛市顶部的上涨楔形（向上） |
-| **失败处理** | 失败则趋势延续 | 失败则常有测量运动（反向） |
+<table>
+  <thead>
+    <tr>
+      <th>特征</th>
+      <th>楔形 Pullback</th>
+      <th>楔形 Reversal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>趋势方向</strong></td>
+      <td>与主要趋势一致</td>
+      <td>与主要趋势相反</td>
+    </tr>
+    <tr>
+      <td><strong>交易性质</strong></td>
+      <td>顺趋势交易</td>
+      <td>逆趋势交易</td>
+    </tr>
+    <tr>
+      <td><strong>入场时机</strong></td>
+      <td>第一信号即可</td>
+      <td>通常等待第二信号（如 pullback 后的更高低点/更低高点）</td>
+    </tr>
+    <tr>
+      <td><strong>形态大小</strong></td>
+      <td>较小（10-20 根K线）</td>
+      <td>较大（≥20 根K线）</td>
+    </tr>
+    <tr>
+      <td><strong>形态要求</strong></td>
+      <td>不要求完美，三 pullbacks 即可</td>
+      <td>需清晰趋势通道线，明显 climax</td>
+    </tr>
+    <tr>
+      <td><strong>典型位置</strong></td>
+      <td>趋势中期的 flag</td>
+      <td>趋势末期顶部/底部</td>
+    </tr>
+    <tr>
+      <td><strong>方向示例</strong></td>
+      <td>牛市中的下跌楔形（向下）</td>
+      <td>牛市顶部的上涨楔形（向上）</td>
+    </tr>
+    <tr>
+      <td><strong>失败处理</strong></td>
+      <td>失败则趋势延续</td>
+      <td>失败则常有测量运动（反向）</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 例外情况
 - 在交易范围（trading range）内形成的楔形，可能更像 pullback，可考虑第一信号入场。

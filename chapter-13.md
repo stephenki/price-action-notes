@@ -41,11 +41,36 @@ chapter: 13
 ### 三角形态（Triangles）
 
 #### 三种类型及其特征
-| 类型 | 特征 | 突破方向概率 | 交易策略 |
-|------|------|-------------|----------|
-| **对称三角** (Symmetrical Triangle) | 上下两条收敛直线，高点降低、低点升高 | 原趋势方向约60% | 等突破确认后顺势入场 |
-| **上升三角** (Ascending Triangle) | 水平阻力 + 上升斜线支撑 | 向上突破概率高（约70%） | 倾向于等待向上突破 |
-| **下降三角** (Descending Triangle) | 水平支撑 + 下降斜线阻力 | 向下突破概率高（约70%） | 倾向于等待向下突破 |
+<table>
+  <thead>
+    <tr>
+      <th>类型</th>
+      <th>特征</th>
+      <th>突破方向概率</th>
+      <th>交易策略</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>对称三角</strong> (Symmetrical Triangle)</td>
+      <td>上下两条收敛直线，高点降低、低点升高</td>
+      <td>原趋势方向约60%</td>
+      <td>等突破确认后顺势入场</td>
+    </tr>
+    <tr>
+      <td><strong>上升三角</strong> (Ascending Triangle)</td>
+      <td>水平阻力 + 上升斜线支撑</td>
+      <td>向上突破概率高（约70%）</td>
+      <td>倾向于等待向上突破</td>
+    </tr>
+    <tr>
+      <td><strong>下降三角</strong> (Descending Triangle)</td>
+      <td>水平支撑 + 下降斜线阻力</td>
+      <td>向下突破概率高（约70%）</td>
+      <td>倾向于等待向下突破</td>
+    </tr>
+  </tbody>
+</table>
 
 #### 关键识别要点
 - **三角形态的 legs（边）**：通常由3-5个波浪组成，每个波浪对应一个"推"（thrust）

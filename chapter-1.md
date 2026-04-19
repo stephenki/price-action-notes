@@ -49,16 +49,66 @@ chapter: 1
 
 反转交易的核心模式围绕**趋势结构破坏**与**新主导力量确认**展开。以下是主要形态及其特征：
 
-| 模式 | 描述 | 典型位置 | 在 CAT 案例中的体现 |
-|------|------|----------|-------------------|
-| **趋势线突破（Break of Trend Line）** | 价格突破连接趋势高/低点的直线，显示原有趋势动能衰竭。 | 趋势中后期，通常伴随连续同向柱。 | Bar 7 三根阴线突破 bull trend line，显示卖压。 |
-| **测试趋势极端（Test of Extreme）** | 价格回测前趋势的最高点（牛市反转）或最低点（熊市反转）。 | 趋势线突破后，价格反弹/回调至前极端。 | 从 bar 7 低点 rally 测试 bar 10  bull trend high。 |
-| **强信号条（Strong Signal Bar）** | 在测试极端时出现的**大实体、强方向性柱**，常伴随长影线或突破关键位。 | 直接位于测试点，确认反转意图。 | Bar 19：双顶 + 熊反转条，同时是 lower high major trend reversal。 |
-| **双顶/双底（Double Top/Bottom）** | 两个相近高点（熊市）或低点（牛市），中间有回落，标志水平阻力/支撑。 | 顶部/底部区域，常作为反转触发点。 | Bar 19 与 bar 13 形成双顶；Bar 14/15 与 bar 16 形成双底。 |
-| **楔形（Wedge）** | 三推结构（three pushes），价格通道收敛，常导致两腿修正。 | 趋势末端，尤其是快速趋势后。 | Bull trend from bar 1 to bar 10 为 wedge（三推：bars 1-3, 5-6, 9-10）。 |
-| **旗形（Flag）** | 短暂整理形态，如双顶熊旗（bear flag）或楔形牛旗（wedge bull flag）。 | 突破后回调或反弹中。 | Rally to bar 19 是双顶熊旗；Rally after bar 16 是 wedge bull flag。 |
-| **第二入场点（Second Entry）** | 初始信号后，价格再次向相同方向突破，提供更确认的入场。 | 初始信号后的 pullback 或反弹。 | Bar 13 是 bar 11 做空后的 breakout test（第二做空入场）。 |
-| **突破测试（Breakout Test）** | 价格返回前期突破区域（如突破缺口）测试支撑/阻力。 | 突破后不久，价格回测突破点。 | Bar 16 是 breakout test of bull spike gap (bar 1-3)。 |
+<table>
+  <thead>
+    <tr>
+      <th>模式</th>
+      <th>描述</th>
+      <th>典型位置</th>
+      <th>在 CAT 案例中的体现</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>趋势线突破（Break of Trend Line）</strong></td>
+      <td>价格突破连接趋势高/低点的直线，显示原有趋势动能衰竭。</td>
+      <td>趋势中后期，通常伴随连续同向柱。</td>
+      <td>Bar 7 三根阴线突破 bull trend line，显示卖压。</td>
+    </tr>
+    <tr>
+      <td><strong>测试趋势极端（Test of Extreme）</strong></td>
+      <td>价格回测前趋势的最高点（牛市反转）或最低点（熊市反转）。</td>
+      <td>趋势线突破后，价格反弹/回调至前极端。</td>
+      <td>从 bar 7 低点 rally 测试 bar 10  bull trend high。</td>
+    </tr>
+    <tr>
+      <td><strong>强信号条（Strong Signal Bar）</strong></td>
+      <td>在测试极端时出现的<strong>大实体、强方向性柱</strong>，常伴随长影线或突破关键位。</td>
+      <td>直接位于测试点，确认反转意图。</td>
+      <td>Bar 19：双顶 + 熊反转条，同时是 lower high major trend reversal。</td>
+    </tr>
+    <tr>
+      <td><strong>双顶/双底（Double Top/Bottom）</strong></td>
+      <td>两个相近高点（熊市）或低点（牛市），中间有回落，标志水平阻力/支撑。</td>
+      <td>顶部/底部区域，常作为反转触发点。</td>
+      <td>Bar 19 与 bar 13 形成双顶；Bar 14/15 与 bar 16 形成双底。</td>
+    </tr>
+    <tr>
+      <td><strong>楔形（Wedge）</strong></td>
+      <td>三推结构（three pushes），价格通道收敛，常导致两腿修正。</td>
+      <td>趋势末端，尤其是快速趋势后。</td>
+      <td>Bull trend from bar 1 to bar 10 为 wedge（三推：bars 1-3, 5-6, 9-10）。</td>
+    </tr>
+    <tr>
+      <td><strong>旗形（Flag）</strong></td>
+      <td>短暂整理形态，如双顶熊旗（bear flag）或楔形牛旗（wedge bull flag）。</td>
+      <td>突破后回调或反弹中。</td>
+      <td>Rally to bar 19 是双顶熊旗；Rally after bar 16 是 wedge bull flag。</td>
+    </tr>
+    <tr>
+      <td><strong>第二入场点（Second Entry）</strong></td>
+      <td>初始信号后，价格再次向相同方向突破，提供更确认的入场。</td>
+      <td>初始信号后的 pullback 或反弹。</td>
+      <td>Bar 13 是 bar 11 做空后的 breakout test（第二做空入场）。</td>
+    </tr>
+    <tr>
+      <td><strong>突破测试（Breakout Test）</strong></td>
+      <td>价格返回前期突破区域（如突破缺口）测试支撑/阻力。</td>
+      <td>突破后不久，价格回测突破点。</td>
+      <td>Bar 16 是 breakout test of bull spike gap (bar 1-3)。</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 结构层级
 1. **主要结构**：趋势线突破 + 测试极端 → 可能引发主要反转。

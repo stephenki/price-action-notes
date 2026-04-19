@@ -109,17 +109,62 @@ chapter: 10
 
 这是本章最核心的对比教学案例，两者时间相近，但结果天壤之别。
 
-| 对比维度 | **Lehman Brothers (LEH) - 成功信号** | **Bear Stearns (BSC) - 失败信号** |
-| :--- | :--- | :--- |
-| **巨量日时间** | 周一（Bar 3） | 周五（巨量日） |
-| **成交量** | **前天的3倍**，**月平均的10倍** | **典型日的15倍**，但**仅比前一天高1.5倍** |
-| **跳空缺口** | **大幅跳空低开（huge gap down）** | 大幅跳空低开（同LEH周一） |
-| **趋势通道** | **跌破**下跌趋势通道线 | **跌破**下跌趋势通道线 |
-| **当日收盘** | **强劲收高**，形成大阳线，有明显bull tail。收盘远高于开盘价。 | **收盘接近当日最低价**，几乎无反弹。上影线极短。 |
-| **价格行为含义** | **多头完全掌控**：低位承接力极强，收盘多方胜。确认通道突破后**拒绝继续下跌**，是强烈的反转信号。 | **空头完全掌控**：尽管成交量巨大，但全天卖压持续，收盘创新低。确认通道突破有效，**下跌动能未衰**。 |
-| **后续走势** | **次日跳空高开**，随后形成**两 legs up** 的反弹，并**测试并穿透移动平均线**。 | **次日（周一）跳空继续暴跌80%**，成交量略减。 |
-| **交易启示** | **强烈的买入信号**。可于收盘、突破信号K线高点或回调后买入。 | **明确的做空/观望信号**。任何抄底行为都极度危险。收盘疲软彻底否决了巨量的积极意义。 |
-| **最终结局** | 数月后破产（但反弹交易机会明确） | 被JPM收购（巨量日后继续崩溃） |
+<table>
+  <thead>
+    <tr>
+      <th>对比维度</th>
+      <th><strong>Lehman Brothers (LEH) - 成功信号</strong></th>
+      <th><strong>Bear Stearns (BSC) - 失败信号</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>巨量日时间</strong></td>
+      <td>周一（Bar 3）</td>
+      <td>周五（巨量日）</td>
+    </tr>
+    <tr>
+      <td><strong>成交量</strong></td>
+      <td><strong>前天的3倍</strong>，<strong>月平均的10倍</strong></td>
+      <td><strong>典型日的15倍</strong>，但<strong>仅比前一天高1.5倍</strong></td>
+    </tr>
+    <tr>
+      <td><strong>跳空缺口</strong></td>
+      <td><strong>大幅跳空低开（huge gap down）</strong></td>
+      <td>大幅跳空低开（同LEH周一）</td>
+    </tr>
+    <tr>
+      <td><strong>趋势通道</strong></td>
+      <td><strong>跌破</strong>下跌趋势通道线</td>
+      <td><strong>跌破</strong>下跌趋势通道线</td>
+    </tr>
+    <tr>
+      <td><strong>当日收盘</strong></td>
+      <td><strong>强劲收高</strong>，形成大阳线，有明显bull tail。收盘远高于开盘价。</td>
+      <td><strong>收盘接近当日最低价</strong>，几乎无反弹。上影线极短。</td>
+    </tr>
+    <tr>
+      <td><strong>价格行为含义</strong></td>
+      <td><strong>多头完全掌控</strong>：低位承接力极强，收盘多方胜。确认通道突破后<strong>拒绝继续下跌</strong>，是强烈的反转信号。</td>
+      <td><strong>空头完全掌控</strong>：尽管成交量巨大，但全天卖压持续，收盘创新低。确认通道突破有效，<strong>下跌动能未衰</strong>。</td>
+    </tr>
+    <tr>
+      <td><strong>后续走势</strong></td>
+      <td><strong>次日跳空高开</strong>，随后形成<strong>两 legs up</strong> 的反弹，并<strong>测试并穿透移动平均线</strong>。</td>
+      <td><strong>次日（周一）跳空继续暴跌80%</strong>，成交量略减。</td>
+    </tr>
+    <tr>
+      <td><strong>交易启示</strong></td>
+      <td><strong>强烈的买入信号</strong>。可于收盘、突破信号K线高点或回调后买入。</td>
+      <td><strong>明确的做空/观望信号</strong>。任何抄底行为都极度危险。收盘疲软彻底否决了巨量的积极意义。</td>
+    </tr>
+    <tr>
+      <td><strong>最终结局</strong></td>
+      <td>数月后破产（但反弹交易机会明确）</td>
+      <td>被JPM收购（巨量日后继续崩溃）</td>
+    </tr>
+  </tbody>
+</table>
 
 **核心教训**：**“Climactic volume in the absence of bullish price action is no reason to fade a strong bear trend.”**（没有看涨价格行为的巨量，绝不是做空强劲下跌趋势的理由）。BSC案例完美诠释了这一点：巨量是“ climax ”，但它是**空头最后宣泄的 climax**，而非多头投降的 climax。
 
@@ -152,12 +197,52 @@ chapter: 10
 
 基于历史案例和交易逻辑，可以对巨量反转策略进行概率评估：
 
-| 情景 | 发生条件 | 反弹至均线概率 | 预期持有周期 | 风险回报比（理想） | 备注 |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **高概率情景** | 巨量（>8x）+ 跳空低开 + **强劲收盘（大阳线/长下影）** + 跌破趋势通道 | **>70%** | 5-20个交易日 | 1:3 或更高 | 如LEH。是策略核心猎物。 |
-| **中等概率情景** | 巨量（5-8x）+ 跳空低开 + **中性收盘（小阳线/十字星）** | **40%-60%** | 3-10个交易日 | 1:2 左右 | 需更谨慎入场，止损更紧。可能只有弱势反弹。 |
-| **低概率/陷阱情景** | 巨量（任何倍数）+ **收盘疲软（长阴线/收盘低位）** | **<30%** | N/A | 风险极高 | 如BSC。**必须避免**。信号完全失效。 |
-| **假信号** | 巨量但未跌破趋势通道，或处于震荡市中 | **极低** | N/A | N/A | 忽略。需严格满足背景条件。 |
+<table>
+  <thead>
+    <tr>
+      <th>情景</th>
+      <th>发生条件</th>
+      <th>反弹至均线概率</th>
+      <th>预期持有周期</th>
+      <th>风险回报比（理想）</th>
+      <th>备注</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>高概率情景</strong></td>
+      <td>巨量（>8x）+ 跳空低开 + <strong>强劲收盘（大阳线/长下影）</strong> + 跌破趋势通道</td>
+      <td><strong>>70%</strong></td>
+      <td>5-20个交易日</td>
+      <td>1:3 或更高</td>
+      <td>如LEH。是策略核心猎物。</td>
+    </tr>
+    <tr>
+      <td><strong>中等概率情景</strong></td>
+      <td>巨量（5-8x）+ 跳空低开 + <strong>中性收盘（小阳线/十字星）</strong></td>
+      <td><strong>40%-60%</strong></td>
+      <td>3-10个交易日</td>
+      <td>1:2 左右</td>
+      <td>需更谨慎入场，止损更紧。可能只有弱势反弹。</td>
+    </tr>
+    <tr>
+      <td><strong>低概率/陷阱情景</strong></td>
+      <td>巨量（任何倍数）+ <strong>收盘疲软（长阴线/收盘低位）</strong></td>
+      <td><strong><30%</strong></td>
+      <td>N/A</td>
+      <td>风险极高</td>
+      <td>如BSC。<strong>必须避免</strong>。信号完全失效。</td>
+    </tr>
+    <tr>
+      <td><strong>假信号</strong></td>
+      <td>巨量但未跌破趋势通道，或处于震荡市中</td>
+      <td><strong>极低</strong></td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td>忽略。需严格满足背景条件。</td>
+    </tr>
+  </tbody>
+</table>
 
 **重要提示**：以上概率为经验性评估，非绝对统计。市场环境（如流动性危机）会改变概率分布。**永远不要依赖单一信号**。
 
