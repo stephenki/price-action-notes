@@ -1,17 +1,18 @@
 ---
 layout: sidebar
-title: "Chapter 15 - 价格行为学习 - 2026-04-08"
+title: "Chapter 15 学习总结"
 chapter: 15
 ---
-nav_title: "价格行为学习 - 2026-04-08"
 
-# Chapter 15 - 价格行为学习 - 2026-04-08
+# 📚 价格行为学习总结 - Chapter 15: Pullbacks（回调）
 
-> 原始文件: 2026-04-08.md
-> 整理时间: 2026-04-17
+**教材**: Al Brooks《Trading Price Action Trading Ranges》Chapter 15  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Trends (Z-Library).epub  
+**原始提取**: `/tmp/chapter15_full_extract.txt`
 
 ---
 
+## 📖 本章核心概念
 
 ## 今日学习内容
 - **章节**：Chapter 15 - Pullbacks（回调）

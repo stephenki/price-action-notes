@@ -1,17 +1,18 @@
 ---
 layout: sidebar
-title: "Chapter 19 - 价格行为学习 - 2026-04-12"
+title: "Chapter 19 学习总结"
 chapter: 19
 ---
-nav_title: "价格行为学习 - 2026-04-12"
 
-# Chapter 19 - 价格行为学习 - 2026-04-12
+# 📚 价格行为学习总结 - Chapter 19: Dueling Lines: Wedge Pullback to the Trend Line（决斗线：楔形回调至趋势线）
 
-> 原始文件: 2026-04-12.md
-> 整理时间: 2026-04-17
+**教材**: Al Brooks《Trading Price Action Trading Ranges》Chapter 19  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Trends (Z-Library).epub  
+**原始提取**: `/tmp/chapter19_full_extract.txt`
 
 ---
 
+## 📖 本章核心概念
 
 ## 今日学习内容
 - **章节**：Chapter 19 - Dueling Lines: Wedge Pullback to the Trend Line（决斗线：楔形回调至趋势线）
@@ -309,14 +310,75 @@ Chapter 19 (楔形 + 趋势线/均线/swing points 共振)
 
 #### 7. 实战交易策略优先级与概率评估
 
-| 策略 | 形态 | 方向 | 概率 | 风险回报 | 入场时机 | 优先级 |
-|------|------|------|------|----------|----------|--------|
-| **Wedge Flag to Trend Line** | 三推楔形 + 触及主趋势线 | 顺势 | 极高 | 优 | 接触趋势线时反转K线 | ⭐⭐⭐⭐⭐ |
-| **Pullback to Prior Swing** | 回调至前 swing point + 反转K线 | 顺势 | 高 | 优 | 反转K线确认 | ⭐⭐⭐⭐⭐ |
-| **Pullback to 20 EMA** | 回调至均线 + 反转K线 | 顺势 | 高 | 优 | 测试均线时反转K线 | ⭐⭐⭐⭐⭐ |
-| **Wedge Flag (单独)** | 三推楔形末端 | 顺势 | 高 | 优 | Leg 3 反转K线 | ⭐⭐⭐⭐ |
-| **M2B/M2S** | 双回调至均线 | 顺势 | 高 | 优 | 第二次测试反转K线 | ⭐⭐⭐⭐ |
-| **Channel to Support** | 通道末端 + 水平支撑 | 顺势 | 中高 | 良 | 接触支撑时反转K线 | ⭐⭐⭐⭐ |
+<table>
+  <thead>
+    <tr>
+      <th>策略</th>
+      <th>形态</th>
+      <th>方向</th>
+      <th>概率</th>
+      <th>风险回报</th>
+      <th>入场时机</th>
+      <th>优先级</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Wedge Flag to Trend Line</strong></td>
+      <td>三推楔形 + 触及主趋势线</td>
+      <td>顺势</td>
+      <td>极高</td>
+      <td>优</td>
+      <td>接触趋势线时反转K线</td>
+      <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td><strong>Pullback to Prior Swing</strong></td>
+      <td>回调至前 swing point + 反转K线</td>
+      <td>顺势</td>
+      <td>高</td>
+      <td>优</td>
+      <td>反转K线确认</td>
+      <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td><strong>Pullback to 20 EMA</strong></td>
+      <td>回调至均线 + 反转K线</td>
+      <td>顺势</td>
+      <td>高</td>
+      <td>优</td>
+      <td>测试均线时反转K线</td>
+      <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td><strong>Wedge Flag (单独)</strong></td>
+      <td>三推楔形末端</td>
+      <td>顺势</td>
+      <td>高</td>
+      <td>优</td>
+      <td>Leg 3 反转K线</td>
+      <td>⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td><strong>M2B/M2S</strong></td>
+      <td>双回调至均线</td>
+      <td>顺势</td>
+      <td>高</td>
+      <td>优</td>
+      <td>第二次测试反转K线</td>
+      <td>⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td><strong>Channel to Support</strong></td>
+      <td>通道末端 + 水平支撑</td>
+      <td>顺势</td>
+      <td>中高</td>
+      <td>良</td>
+      <td>接触支撑时反转K线</td>
+      <td>⭐⭐⭐⭐</td>
+    </tr>
+  </tbody>
+</table>
 
 **概率说明**：
 - **极高（>70%）**：多重共振（楔形+趋势线+反转K线）
@@ -532,15 +594,84 @@ Chapter 19 (决斗线 - 高概率回调入场)
 
 ### 典型交易场景总结
 
-| 场景 | 形态 | 方向 | 关键位 | 概率 | 入场时机 | 止损位置 |
-|------|------|------|--------|------|----------|----------|
-| 牛市楔形回调触及上升趋势线 | Wedge Bull Flag + Trend Line | 多 | 主上升趋势线 | 极高 | 接触时反转K线确认 | Leg 3 低点外侧 |
-| 熊市楔形反弹触及下降趋势线 | Wedge Bear Flag + Trend Line | 空 | 主下降趋势线 | 极高 | 接触时反转K线确认 | Leg 3 高点上侧 |
-| 牛市回调至前 higher low | Pullback to Prior Swing Low | 多 | 前 swing low（支撑） | 高 | 反转K线收盘后 | swing low 外侧 |
-| 熊市反弹至前 lower high | Pullback to Prior Swing High | 空 | 前 swing high（阻力） | 高 | 反转K线收盘后 | swing high 外侧 |
-| 牛市回调至 20 EMA | Pullback to 20 EMA | 多 | 20 EMA 动态支撑 | 高 | 测试均线K线反转 | 测试K线低点外侧 |
-| 熊市反弹至 20 EMA | Pullback to 20 EMA | 空 | 20 EMA 动态阻力 | 高 | 测试均线K线反转 | 测试K线高点上侧 |
-| 通道回调至斐波那契 50% | Channel + 50% Fib | 顺势 | 50% 回撤位 | 中高 | 接触时反转K线 | Leg 3 外侧 |
+<table>
+  <thead>
+    <tr>
+      <th>场景</th>
+      <th>形态</th>
+      <th>方向</th>
+      <th>关键位</th>
+      <th>概率</th>
+      <th>入场时机</th>
+      <th>止损位置</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>牛市楔形回调触及上升趋势线</td>
+      <td>Wedge Bull Flag + Trend Line</td>
+      <td>多</td>
+      <td>主上升趋势线</td>
+      <td>极高</td>
+      <td>接触时反转K线确认</td>
+      <td>Leg 3 低点外侧</td>
+    </tr>
+    <tr>
+      <td>熊市楔形反弹触及下降趋势线</td>
+      <td>Wedge Bear Flag + Trend Line</td>
+      <td>空</td>
+      <td>主下降趋势线</td>
+      <td>极高</td>
+      <td>接触时反转K线确认</td>
+      <td>Leg 3 高点上侧</td>
+    </tr>
+    <tr>
+      <td>牛市回调至前 higher low</td>
+      <td>Pullback to Prior Swing Low</td>
+      <td>多</td>
+      <td>前 swing low（支撑）</td>
+      <td>高</td>
+      <td>反转K线收盘后</td>
+      <td>swing low 外侧</td>
+    </tr>
+    <tr>
+      <td>熊市反弹至前 lower high</td>
+      <td>Pullback to Prior Swing High</td>
+      <td>空</td>
+      <td>前 swing high（阻力）</td>
+      <td>高</td>
+      <td>反转K线收盘后</td>
+      <td>swing high 外侧</td>
+    </tr>
+    <tr>
+      <td>牛市回调至 20 EMA</td>
+      <td>Pullback to 20 EMA</td>
+      <td>多</td>
+      <td>20 EMA 动态支撑</td>
+      <td>高</td>
+      <td>测试均线K线反转</td>
+      <td>测试K线低点外侧</td>
+    </tr>
+    <tr>
+      <td>熊市反弹至 20 EMA</td>
+      <td>Pullback to 20 EMA</td>
+      <td>空</td>
+      <td>20 EMA 动态阻力</td>
+      <td>高</td>
+      <td>测试均线K线反转</td>
+      <td>测试K线高点上侧</td>
+    </tr>
+    <tr>
+      <td>通道回调至斐波那契 50%</td>
+      <td>Channel + 50% Fib</td>
+      <td>顺势</td>
+      <td>50% 回撤位</td>
+      <td>中高</td>
+      <td>接触时反转K线</td>
+      <td>Leg 3 外侧</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 

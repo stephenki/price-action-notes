@@ -1,17 +1,18 @@
 ---
 layout: sidebar
-title: "Chapter 17 - 价格行为学习 - 2026-04-10"
+title: "Chapter 17 学习总结"
 chapter: 17
 ---
-nav_title: "价格行为学习 - 2026-04-10"
 
-# Chapter 17 - 价格行为学习 - 2026-04-10
+# 📚 价格行为学习总结 - Chapter 17: Horizontal Lines: Swing Points and Other Key Price Levels（水平线：摆动点与其他关键价格水平）
 
-> 原始文件: 2026-04-10.md
-> 整理时间: 2026-04-17
+**教材**: Al Brooks《Trading Price Action Trading Ranges》Chapter 17  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Trends (Z-Library).epub  
+**原始提取**: `/tmp/chapter17_full_extract.txt`
 
 ---
 
+## 📖 本章核心概念
 
 ## 今日学习内容
 - **章节**：Chapter 17 - Horizontal Lines: Swing Points and Other Key Price Levels（水平线：摆动点与其他关键价格水平）
@@ -51,13 +52,42 @@ nav_title: "价格行为学习 - 2026-04-10"
 
 **三大类别**：
 
-| 类型 | 描述 | 交易意义 |
-|------|------|----------|
-| Swing Highs/Lows | 已形成的摆动点 | 潜在支撑/阻力，突破后成为新目标 |
-| 整数关口 | 如1.3000（外汇）、3000（指数） | 心理支撑/阻力，订单聚集区 |
-| 成交密集区 | 价格反复停留的区域（Value Area） | 强支撑/阻力，突破需成交量确认 |
-| 前日高/低 | 昨日 extremes | 开盘后常被测试，突破可能延续 |
-| 开盘价 | 当日开盘位置 | 常成为日内支撑/阻力（尤其 Gap 日） |
+<table>
+  <thead>
+    <tr>
+      <th>类型</th>
+      <th>描述</th>
+      <th>交易意义</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Swing Highs/Lows</td>
+      <td>已形成的摆动点</td>
+      <td>潜在支撑/阻力，突破后成为新目标</td>
+    </tr>
+    <tr>
+      <td>整数关口</td>
+      <td>如1.3000（外汇）、3000（指数）</td>
+      <td>心理支撑/阻力，订单聚集区</td>
+    </tr>
+    <tr>
+      <td>成交密集区</td>
+      <td>价格反复停留的区域（Value Area）</td>
+      <td>强支撑/阻力，突破需成交量确认</td>
+    </tr>
+    <tr>
+      <td>前日高/低</td>
+      <td>昨日 extremes</td>
+      <td>开盘后常被测试，突破可能延续</td>
+    </tr>
+    <tr>
+      <td>开盘价</td>
+      <td>当日开盘位置</td>
+      <td>常成为日内支撑/阻力（尤其 Gap 日）</td>
+    </tr>
+  </tbody>
+</table>
 
 **Role Reversal（角色转换）**：
 - **支撑突破后转为阻力**：跌破支撑 → 该位置成为反弹阻力

@@ -1,17 +1,18 @@
 ---
 layout: sidebar
-title: "Chapter 20 - 价格行为学习 - 2026-04-21"
+title: "Chapter 20 学习总结"
 chapter: 20
 ---
-nav_title: "价格行为学习 - 2026-04-21"
 
-# Chapter 20 - 价格行为学习 - 2026-04-21
+# 📚 价格行为学习总结 - Chapter 20: Gap Openings: Reversals and Continuations（跳空开盘：反转与持续）
 
-> 原始文件: 2026-04-21.md
-> 整理时间: 2026-04-17
+**教材**: Al Brooks《Trading Price Action Trends》Chapter 20  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Trends (Z-Library).epub  
+**原始提取**: `/tmp/chapter20_full_extract.txt`
 
 ---
 
+## 📖 本章核心概念
 
 ## 📌 章节概览
 - **Chapter 20**: Gap Openings: Reversals and Continuations
@@ -128,10 +129,27 @@ nav_title: "价格行为学习 - 2026-04-21"
 ## 📊 章节关联与知识图谱
 
 ### 前置依赖
-| 章节 | 主题 | 关联性 |
-|------|------|--------|
-| Chapter 1-12 | 基础概念 | ⭐⭐⭐⭐⭐ 必需 |
-| Chapter 15-19 | 相关知识 | ⭐⭐⭐⭐ 重要 |
+<table>
+  <thead>
+    <tr>
+      <th>章节</th>
+      <th>主题</th>
+      <th>关联性</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Chapter 1-12</td>
+      <td>基础概念</td>
+      <td>⭐⭐⭐⭐⭐ 必需</td>
+    </tr>
+    <tr>
+      <td>Chapter 15-19</td>
+      <td>相关知识</td>
+      <td>⭐⭐⭐⭐ 重要</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 后续延伸
 - **Chapter 21**: 承接本章概念
@@ -200,13 +218,36 @@ nav_title: "价格行为学习 - 2026-04-21"
 
 ## 📋 本章小结
 
-| 项目 | 内容 |
-|------|------|
-| 核心主题 | 跳空开盘：反转与持续 |
-| 关键要点数 | 25 |
-| 关联章节 | Ch 17-23 |
-| 实践难度 | ⭐⭐⭐⭐⭐ |
-| 掌握程度 | 🔄 持续精进 |
+<table>
+  <thead>
+    <tr>
+      <th>项目</th>
+      <th>内容</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>核心主题</td>
+      <td>跳空开盘：反转与持续</td>
+    </tr>
+    <tr>
+      <td>关键要点数</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td>关联章节</td>
+      <td>Ch 17-23</td>
+    </tr>
+    <tr>
+      <td>实践难度</td>
+      <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td>掌握程度</td>
+      <td>🔄 持续精进</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 

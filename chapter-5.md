@@ -1,168 +1,629 @@
 ---
 layout: sidebar
-title: "Chapter 5 - Wedges and Other Three-Push Reversal Patterns"
+title: "Chapter 5 学习总结"
 chapter: 5
 ---
-nav_title: "Wedges and Other Three-Push Reversal Patterns"
 
-# Chapter 5 - Wedges and Other Three-Push Reversal Patterns
+# 📚 价格行为学习总结 - Chapter 5: Wedge and Three-Push Reversal Patterns（楔形与三推反转形态）
 
-> 来源: Book 1 - Reversal
-> 整理时间: 2026-04-17
-> 原文段落数: 73
-> 精选要点: 25 个
+**教材**: Al Brooks《Trading Price Action Reversals》Chapter 5  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Reversals (Z-Library).epub  
+**原始提取**: `/tmp/chapter5_full_extract.txt`
 
 ---
 
-## 📋 本章摘要
+## 📖 本章核心概念
 
-### 要点 1
+## 1. 三推反转形态的核心定义与统一市场逻辑
 
-Wedges most often fail when traders are overly eager to enter countertrend, do not wait for a clear trend line break and countertrend strength, and fade the first small three-push pattern that appears. Three pushes alone, especially when small, will rarely reverse a trend in the absence of a prior trend line break or a major trend channel overshoot and reversal. If the channel is tight, even if it has a wedge shape, it is almost always better not to enter on the reversal. Instead, wait for the reversal and see how strong the breakout is. If it is strong, trade it like any other breakout. It is usually best to enter on a breakout pullback, but when the spike is very strong, traders will enter on the closes of the bars and at the market. If the breakout is weak, traders assume that it will fail and they look for the channel to continue. They will then enter in the direction of the wedge channel and not in the countertrend direction. For example, if there is a wedge bottom in a bear trend but the upside breakout is weak, traders will look to short the low 1 or low 2 that is created by the failed upside breakout. These smart traders will enter where the countertrend traders will be taking their losses.
+**三推形态**（Three-Push Patterns）是技术分析中一类重要的反转配置，其核心特征是市场在单一方向上经历三次推动（pushes）后，形成触发反转交易的反转设置。本章的核心论点在于：**所有三推形态，无论其具体形状如何，都是同一 underlying 市场行为的体现**。这意味着，交易者不应过度纠结于形态的细微差别（如是否完美楔形、是否三角形），而应聚焦于其共有的动态逻辑。
 
-### 要点 2
+### 统一市场逻辑
+当市场经历三次同向推动后，通常意味着：
+- **趋势交易者放弃**：他们不再期待强力突破，开始获利了结或停止追涨杀跌。
+- **反转交易者 gaining control**：他们相信市场动能已衰竭，趋势可能反转。
+- **第三个连续反转通常足够**：教材明确指出，三次推动后，市场结构发生转变的概率显著增加。
 
-Trends often end with a test of the extreme, and the test often has two legs, each reaching a greater extreme (a two-legged higher high in a bull trend or lower low in a bear trend). The first extreme and then those two legs make three pushes, which is a well-recognized reversal setup with many names. Sometimes it takes a wedge shape (an ascending triangle in a bull trend or a descending triangle in a bear trend), but usually it does not. It is not useful for a trader to draw subtle distinctions among the variations because there are enough similarities that they trade the same. For simplicity, think of these three-push patterns as wedges since most of them end in a climactic wedgelike point. Remember, a wedge is simply a trend channel where there are three pushes and often the trend line and trend channel lines converge. A trend line and trend channel line in a three-push pattern can be parallel like a stairs pattern, convergent like a wedge, or divergent like an expanding triangle. It does not matter because they all behave similarly and you trade them the same. They are all climaxes and frequently have a parabolic shape, which at times can be subtle. For example, if there is a bull wedge and the slope of the trend channel line drawn across the tops of the second and third legs is steeper than the line drawn across the highs of the first two legs, the wedge is parabolic. This is climactic behavior (discussed in the last chapter), and if the market reverses down, it will usually do so in about two legs and 10 bars.
+**关键洞察**：形态名称（楔形、 triple top、 head and shoulders 等）不重要，重要的是识别“三次推动”这一结构，并理解其代表的** climax **（高潮）与** urgency **（紧迫感）心理。
 
-### 要点 3
+### 形态的包容性
+教材列举了多种可视为三推形态的配置：
+- 楔形（wedges）、微型楔形（micro wedges）、抛物线楔形（parabolic wedges）
+- 具有第四推的楔形
+- 趋势中的楔形 pullback 或交易范围中的楔形
+- 其他三角形（包括扩张三角形）、 triple top/bottom、 double top/bottom pullback
+- head and shoulders 顶/底
+- 双顶/双底突破失败
 
-There is a special type of wedge that is really just a three-push pattern and usually does not have a wedge shape, but it is important because it is a reliable breakout setup. If the market is in a trading range and then has a one-tick breakout beyond a minor swing high or low that reverses for maybe three to 20 bars, and then the market again has another one-tick or sometimes a two-tick breakout that once again pulls back, those three pushes set up the pattern. If the market then breaks again beyond that second minor breakout, it usually leads to a significant breakout and an approximate measured move equal to the height of the pattern. It is as if the three pushes constitute a wedge, and then, instead of leading to a reversal, the wedge failed. As is the case with all failed wedges, the market typically breaks out and runs for about the same number of points as there are from the bottom to the top of the wedge. Sometimes the market breaks out after only going beyond a single one-tick failure.
-
-### 要点 4
-
-The majority of three-push patterns reverse after overshooting a trend channel line and that alone can be a reason to enter, even if the actual shape is not a wedge. However, the three pushes are often easier to see than is the trend channel line overshoot, and that makes the distinction from other trend channel line failures worthwhile. These patterns rarely have a perfect shape, and often trend lines and trend channel lines have to be manipulated to highlight the pattern. For example, the wedge might be only with the candle bodies, so to draw the trend line and trend channel line in a way to highlight the wedge shape, you have to ignore the tails. Other times, the end point of the wedge won’t reach the trend channel line. Be flexible and if there is a three-push pattern at the end of a big move, even if the pattern is not perfect, trade it as if it is a wedge. However, if it overshoots the trend channel line, the odds of success with the countertrend trade are higher. Also, most trend channel line overshoots have a wedge shape, but it is often so stretched out that it is not worth looking at it. The reversal from the overshoot can be reason enough to enter if the pattern is strong.
-
-### 要点 5
-
-In the Emini, if there is a wedge top and then a brief sell-off, the pullback often tests the top of the wedge to the exact tick, forming a perfect double top. If the market reverses back down, this is a second-entry short opportunity. In the SPY and in many stocks, the pullback will sometimes go above the wedge by a few ticks and traders will not see this as a failure. However, if it races above the wedge by many ticks, this is a sign that traders are buying aggressively and they are looking for a strong leg up and no longer looking for a top. When this is happening, look to buy quickly to catch this fast breakout. Most wedge tops that fail are very steep and tight and occur in strong bull trends. When a bull trend is strong, it will always be forming trend channel line overshoots and three-push patterns, but the pullbacks between the pushes are small and the pushes are very strong. It is a mistake to be looking for reversals in strong trends, because most reversal attempts fail. Instead of seeing everything as a possible wedge top, look to buy the pullback from each new high. Also, wedge tops in strong bull trends often correct in two sideways legs to the moving average, setting up a high 2 buy. This is a reliable entry. A wedge that corrects sideways is a sign that the trend is very strong. The opposite is true for wedge bottoms. As with any breakout, the breakout could fail. For example, if the wedge top triggers, but the market quickly reverses back up and breaks out above the wedge top, the wedge has failed. However, the bull breakout should be viewed like any other breakout. If it is strong, it is likely to be followed by a measured move up. If it is weak, it will likely fail and the market will reverse back down. If that happens, the bull breakout above the wedge becomes simply a higher high pullback from the original breakout below the wedge.
-
-### 要点 6
-
-If a three-push move is too steep, it is usually not a good reversal pattern except sometimes in the first hour when it can create an opening reversal. As shown in 
-Figure 5.2
-, the market rallied strongly from bar 11 to bar 12 in three pushes, and although this was a steep channel, it was an acceptable parabolic wedge opening reversal. Bar 12 broke above the bar 8 and bar 10 double top and was followed by a bear inside bar. Bar 12 was both a failed breakout of the double top and a double top with either of those bars. The rally was to a price level where sellers came in several times yesterday, and it was reasonable to think they might return again today around the top of the trading range from yesterday.
-
-### 要点 7
-
-When there are three or more pushes and each breakout is smaller, then this is a shrinking stairs pattern in addition to being a wedge. For example, if there are three pushes up in a bull trend and the second push was 10 ticks above the first and the third was only seven ticks above the second, then this is a shrinking stairs pattern. It is a sign of waning momentum and increases the odds that there will be a two-legged reversal. The bulls are taking profits sooner and the bears are shorting at less of a breakout than last time because they believe the market might not break out as much this time. Sometimes there will be a fourth or fifth step in a strong trend, but since the momentum is waning, countertrend trades can usually be taken. In contrast, if the third step is significantly beyond the second and then reverses, this is likely to become a trend channel line overshoot and reversal setup.
-
-### 要点 8
-
-When the market makes three pushes in one direction and then creates a reversal setup that triggers the reversal trade, the first target is the beginning of the pattern, and the next is a measured move based on the height of the pattern. For example, if there is a wedge top where the third push up ends with a strong bear reversal bar, and the next bar trades below the reversal bar, the first target is a test of the bottom of the wedge (the bottom of the pullback from the first push up), and the next is a measured move down, based on the height from the bottom to the top of the wedge. All three push patterns are manifestations of the same underlying market behavior, regardless of the shape that the pattern takes. It does not matter if it is a wedge, a micro wedge, a parabolic wedge, a wedge with a fourth push, a wedge pullback in a trend or a trading range, a wedge trend reversal pattern, another type of triangle (including an expanding triangle), a triple top or bottom, a double top or bottom pullback, a head and shoulders top or bottom, or a failed breakout below a double top or above a double bottom. At some point, the trend traders give up trying for a strong breakout, and the reversal traders gain control of the market. A third consecutive reversal is usually enough for that to happen.
-
-### 要点 9
-
-Wedges can be pullbacks or reversals. Wedge pullbacks are discussed in Chapters 18 and 19 in the second book. When they are pullbacks in trends, they are with-trend setups and it is reasonable to enter on the first signal. A wedge reversal is an attempt to reverse a trend and it is therefore a countertrend setup. In general, it is better to wait for a second signal when trading countertrend. For example, if there is a wedge bottom in a bear trend, buy above the signal bar only if the pattern is exceptionally strong. It is usually better to wait to see if the market has a strong bull breakout and then look to buy a pullback, which can be a higher low or even a lower low. If the bull breakout goes straight up for several bars without a pullback, then traders should trade it like any other breakout, as discussed in the second book. Another difference between wedge pullbacks and reversals is their direction. A wedge bull flag points down, whereas a wedge reversal at the top of a bull trend points up. A wedge pullback in a bear trend points up, but a wedge bottom in a bear trend points down. Also, wedge flags are usually smaller patterns, and most last about 10 to 20 bars. Since they are with-trend setups, they don’t have to be perfect, and many are subtle and look nothing like a wedge, but have three pullbacks. A reversal usually needs to be at least 20 bars long and have a clear trend channel line to be strong enough to reverse a trend.
-
-### 要点 10
-
-Wedges are often opening reversal patterns. Opening reversals can follow very strong moves in the first hour or so, and sometimes there will be a very steep wedge with only slight pauses after the first two pushes, yet the market will abruptly reverse and trend for the rest of the day. The first pause might be a small final flag, and then there is an even smaller final flag after the second push. Although you should never look for a reversal from such a steep, tight wedge after the first hour or two, they can be reliable opening reversal setups.
-
-### 要点 11
-
-Three-push patterns often contain large trend bars and create consecutive climaxes. If the pushes are strong one- to three-bar spikes, traders will see them as climaxes. For example, if there is a strong bear spike, and a pullback, and then another strong bear spike, traders will wonder if the pullback is the final flag in the bear trend and if the consecutive sell climaxes will be followed by a bigger pullback. If there is only a small pullback from the second push down instead of a 10-bar rally, and then there is a third strong bear spike, traders will see this as three consecutive sell climaxes. They know that the odds are 60 percent or better that the market will try to have a more complex correction, like two legs up, that lasts for about 10 or more bars. So, if the pattern has a good signal bar, reasonable shape, adequate buying pressure, and is not a tight bear channel, they will consider buying the reversal up from the third push down.
-
-### 要点 12
-
-The daily SPY topped in March 2000 and then there was a three-push rally to the bar 8 lower high, as shown in 
-Figure 5.4
-. Bar 8 also formed a double top bear flag with bar 2 (it slightly exceeded the bar 2 high). Bar 8 did not quite reach the dashed bear trend channel line. This wedge bear flag was followed by a huge bull trend. At the time that it formed, it was unclear whether a trend reversal was taking place, but following the three pushes up to bar 1, the market was likely to have at least two pushes down. The move down to bar 3 was the first, and the rally to bar 8 was therefore the pullback, setting up the sell-off to at least one more leg down. Although most trading ranges after bull trends are simply bull flags on higher time frame charts, most trend reversals come from trading ranges. The market usually has to transition into a two-sided market before it changes direction. As the market began to fall from bar 8, it was more likely to find support around the bar 3 low at the bottom of the developing trading range. However, the leg to below bar 3 was so steep that it was clear that there were not many buyers and that the market had to go lower to find traders willing to buy. Strong bulls did not appear until the double bottom pullback and higher low major trend reversal in early 2003.
-
-### 要点 13
-
-One-tick breakouts can be important, especially if there are two in succession, because that creates a three-push pattern. In 
-Figure 5.12
-, bar 4 was one tick above bar 3, and bar 5 was 1 tick above bar 4. If there was then a pullback or some sideways trading and then the market moved above bar 5, there would likely have been an upside breakout and the micro wedge would have failed to reverse the market.
-
-### 要点 14
-
-Once the market turns up, traders then redraw the trend line. Instead of using the parallel of the trend channel line, they now can draw a trend line using the bottoms of the first two pullbacks. They now see that it is steeper than the trend channel line above and they begin to believe that the market is forming a wedge, which they know is often a reversal pattern. Traders will draw a parallel of that new steeper trend line and drag it to the top of the second push up, in case the market is forming a steeper parallel channel instead of a wedge. Both the bulls and the bears will watch to see whether the original trend channel line will contain the rally or the new, steeper one will be reached. If the original one contains the rally and the market turns down, traders will think that although there was more urgency in the buying on the second pullback, that urgency did not continue on the third push up. The bulls took profits at the original, shallower trend channel line, which means that they exited earlier than they could have. The bulls were hoping that the market would rally to the steeper trend channel line, but are now disappointed. The bears were so eager to short that, afraid that the market would not reach the steeper, higher trend channel line, they began to short at the original line. Now it is the bears who have a sense of urgency and the bulls who are afraid. Traders will see the turndown from the wedge top and sell, and most will wait for at least two legs down before they look for the next major signal up or down.
-
-### 要点 15
-
-Bars 7, 8, and 9 created a three-push long setup with an entry above the bar 9 bull reversal bar, even though the close was midrange. The day was clearly not a trend day, so a weaker reversal bar was reasonable. This pattern had diverging lines, although it was not an expanding triangle since the high after bar 8 was below the high after bar 7. Bar 9 did not overshoot the trend channel line, but it was still a good long setup on a trading range day. If you were concerned that it was risky after the strong sell-off down to bar 7, you could have waited for a higher low before going long. The outside up bar three bars later was a higher low, but when entering on outside bars, you have to be fast because they often reverse up quickly.
-
-### 要点 16
-
-Bars 2, 3, and 6 also represent a shrinking stairs pattern, which often leads to a good reversal. You could also call it a wedge, because of the three pushes up (bars 2 and 3 were the first two, and it was also the third push up from bar 4). With shrinking stairs, the second breakout is smaller than the first, indicating loss of momentum. Here, bar 3 was 19 cents above bar 2, but bar 6 was only 12 cents above bar 3. Whenever shrinking stairs are present, the trade becomes more likely to be successful and usually signals an imminent two-legged pullback in a strong trend.
-
-### 要点 17
-
-Bar 8 was a micro wedge bottom, setting up a one-bar bear flag. It was a sign that the market was pausing; it was not a reversal pattern in a strong bear trend.
-
-### 要点 18
-
-A wedge bottom that is in a tight channel in a bear trend and without prior bull strength is not a buy setup. As shown in 
-Figure 5.10
-, the market was in a bear trend from the open on a gap down day. Overly eager bulls would have rationalized buying the bar 6 wedge reversal by convincing themselves that it was the end of a two-legged move down and there was a trend line break at bar 3. However, bar 3 was a failed trend line break and did not represent the bulls taking control of the market with any momentum. The bar 6 wedge long entry above the inside bar was a successful scalp, but not a setup that would likely turn into anything more. The move down to bar 6 did not have a meaningful trend line break or upward momentum in the middle and therefore looked more like a single leg down made up of two smaller legs in a tight bear channel. There was likely to be a second leg down after a break of the bear trend line. Some traders saw bar 6 as the end of a wedge with its first push down as bar 2, its second push down as bar 4, and the final push down as bar 6. It was also a five-bar-long micro wedge formed by bars 4, 5, and 6. Since a trend channel line can be drawn across the bottoms of the bars, this small pattern can be thought of as a little wedge and therefore should have behaved like one and should have had a correction that reached to about the start of the wedge at the top of the bar that created the first push down.
-
-### 要点 19
-
-A related pattern is a failed double top or bottom breakout. For example, if there is a double top and then the market breaks above the double top but reverses back down within a few bars, this can function like a wedge top (a wedge is a type of triangle, and some traders would call it a triangle). The first two pushes up are the highs of the double top, and the third push up is the breakout above the double top. If the market reverses down, it will usually go far enough for at least a scalp. A double top is a trading range, and the failed breakout is just a failed breakout of a trading range that is usually followed by just more sideways trading. It usually falls enough for at least a scalp, but sometimes it will be followed by a quick breakout of the opposite side of the trading range and a measured move down based on the height of the trading range. In this case, the bulls who bought the breakout and were stopped out on the reversal will look to buy again only after a substantial pullback.
-
-### 要点 20
-
-A micro wedge is a wedge that is formed by three consecutive bars or three out of four or five consecutive bars. Since the pattern is so small, it usually results in only a minor correction. Usually the bars have tails and a micro trend channel line can be drawn across those tails, and there usually is a clear wedge on a smaller time frame like a 1 minute chart. For example, if the market is selling off and has a bear trend bar with a moderate tail on the bottom, and this is followed by another bear trend bar with a slightly lower low and an obvious tail on the bottom, and then by a third bar with a lower low and a tail, this is a micro wedge reversal pattern. If the bear trend is strong, you should not buy above the high of the third bar, because it will likely lead to a loss. If the micro wedge forms in a trading range day near the bottom of the range and the third bar is a bull reversal bar, this might be a reasonable setup for a buy scalp.
-
-### 要点 21
-
-When there is urgency on the part of the bears, they will short aggressively just below the trend channel line. They are afraid that the market will not get above the line and they don’t want to risk missing the sell-off. In 
-Figure 5.6
-, bars 3, 4, and 5 formed a wedge top, but bar 5 did not overshoot the trend channel line. Because this was a wedge reversal setup, it was better to wait for a second signal, like a lower high. Bar 5 and the bar after it formed a small bear spike. Bar 6 was a second entry on the failed high 2, and bar 6 was the start of a larger, three-bar bear spike. After a one-bar pullback, there was a five-bar bear spike and a collapse into a strong bear trend. Since the channel up from bar 2 had large swings and therefore had a lot of two-sided trading, this spike and channel bull was not a strong trend. The spike was the low of the day up to bar 1. When there is significant trading range behavior, aggressive traders could short the first entry, which was the two-bar reversal at bar 5. Incidentally, the bar 1 high at the top of the wedge was a micro wedge top, and the sell-off to bar 2 was a double bottom bull flag with the bottom of the wedge, which was the start of the wedge-shaped channel. Bar 2 was also a test of the breakout above the first bar of the day.
-
-### 要点 22
-
-When there is a trend in the first hour, the market often has a trading range that lasts for several hours, followed by a resumption of the trend into the close. That trading range will often have three pushes, but usually not a wedge shape. For example, in a trend-resumption bear trend day, the trading range might be a bear channel that slopes up slightly, and it might have three pushes but not a wedge shape. It does not matter whether you call it a low 3 short setup or a wedge, but it is important to be aware that the day might have a bear trend resumption into the close and that this three-push, low-momentum rally might be the setup for the short. View this as a type of wedge because it has three pushes, there is often a trend channel line overshoot, it sometimes has the shape of a wedge, and it has the same behavior as a wedge. Remember, if you see everything in shades of gray, you will be a much better trader.
-
-### 要点 23
-
-When the wedge reversal fails and the market reaches a new extreme, watch to see if the market reverses on this fourth push. Sometimes what appears to be a fourth push is really just a third push in the eyes of most traders. If, after the pullback from the first push, the market creates an especially strong second push, many traders will reset the count and consider it to be the new first push. The result is that many traders won’t look for a reversal after the third push and instead will wait for the fourth push before looking for a reversal trade. In hindsight, the decision about whether most traders reset the count is clear, but when you are trading, you cannot always be certain. The stronger the momentum is on the second push, the more likely it is that the market will have reset the count and the more likely it is that there will be a fourth push.
-
-### 要点 24
-
-When a channel has a wedge shape, it is due to urgency (and if it has a parabolic wedge shape, it is due to extreme urgency), and often leads to a climactic reversal. For example, in a wedge top, the slope of the trend line is greater than the slope of the trend channel line. The trend line is where the with-trend traders enter and the countertrend traders exit, and the opposite happens at the trend channel line. So if the slope of the trend line is greater, that means that the bulls are buying on smaller pullbacks and the bears are exiting on smaller sell-offs. What first distinguishes a wedge from a channel where the lines are parallel is the second pullback. Once the second push up has begun to reverse down, traders can draw a trend channel line and then use it to create a parallel line. When they drag that parallel line to the bottom of the first pullback, they have created a trend line and a trend channel. That tells bulls and bears where support is, and bulls will look to buy there and bears will look to take profits there. However, if the bulls begin to buy above that level and the bears exit their shorts early, the market will turn back up before it reaches the trend line. Both are doing so because they feel a sense of urgency and are afraid that the market will not drop down to that support level. This means that both feel that the trend line needs to be steeper and that the trend up is stronger.
-
-### 要点 25
-
-This is also a spike and channel bull trend where there was a sharp spike up to bar 4 and then a steep channel to bar 6. The move from the bar 3 low to bar 6 was in such a tight channel that it became a large spike. The bar 7 pullback that led to the channel was tested by the bar 20 sell-off. The bull channel had three pushes and a wedge shape, which is common in spike and channel patterns.
+**核心原则**：只要在趋势末期出现三次向同一方向的推动（尤其是伴随 climax  bars），就应视为潜在的反转信号，交易逻辑相同。
 
 ---
 
-## 🎯 核心概念
+## 2. 交易目标与测量运动：第一目标与第二目标
 
-基于关键词相关性提取的最相关段落：
+当三推反转形态触发交易后，交易者需明确两个 sequential 目标：
 
-1. Wedges most often fail when traders are overly eager to enter countertrend, do not wait for a clear trend line break and countertrend strength, and fade the first small three-push pattern that appears. Three pushes alone, especially when small, will rarely reverse a trend in the absence of a prior t
+### 第一目标：形态起点
+- **定义**：形态的起始点，通常是第一次推动前的显著低点（顶部反转）或高点（底部反转）。
+- **具体位置**：对于楔形顶部，第一目标是测试楔形底部（即第一次向上推动后的 pullback 底部）；对于楔形底部，第一目标是测试楔形顶部。
+- **心理意义**：这是市场对前期趋势的首次实质性回撤，往往吸引获利了结和初步反向兴趣。
 
-2. Trends often end with a test of the extreme, and the test often has two legs, each reaching a greater extreme (a two-legged higher high in a bull trend or lower low in a bear trend). The first extreme and then those two legs make three pushes, which is a well-recognized reversal setup with many name
+### 第二目标：测量运动（Measured Move）
+- **定义**：基于形态高度的估算运动幅度。
+- **计算方法**：**测量运动目标 ≈ 楔形高度（从底部到顶部的垂直距离）**。
+- **应用**：
+  - 楔形顶部反转后，第二目标 = 楔形高度向下测量。
+  - 楔形底部反转后，第二目标 = 楔形高度向上测量。
+- **时间框架**：测量运动通常持续约10根或更多K线，分为两腿（two legs）。
 
-3. There is a special type of wedge that is really just a three-push pattern and usually does not have a wedge shape, but it is important because it is a reliable breakout setup. If the market is in a trading range and then has a one-tick breakout beyond a minor swing high or low that reverses for mayb
+### 案例说明
+> 例如，一个楔形顶部：第三次向上推动以 strong bear reversal bar 结束，下一根K线交易该反转 bar 下方。第一目标为测试楔形底部（第一次向上推动后 pullback 的底部），第二目标为基于楔形高度的向下测量运动。
 
-4. The majority of three-push patterns reverse after overshooting a trend channel line and that alone can be a reason to enter, even if the actual shape is not a wedge. However, the three pushes are often easier to see than is the trend channel line overshoot, and that makes the distinction from other 
-
-5. In the Emini, if there is a wedge top and then a brief sell-off, the pullback often tests the top of the wedge to the exact tick, forming a perfect double top. If the market reverses back down, this is a second-entry short opportunity. In the SPY and in many stocks, the pullback will sometimes go ab
-
-6. If a three-push move is too steep, it is usually not a good reversal pattern except sometimes in the first hour when it can create an opening reversal. As shown in 
-Figure 5.2
-, the market rallied strongly from bar 11 to bar 12 in three pushes, and although this was a steep channel, it was an accept
-
-7. When there are three or more pushes and each breakout is smaller, then this is a shrinking stairs pattern in addition to being a wedge. For example, if there are three pushes up in a bull trend and the second push was 10 ticks above the first and the third was only seven ticks above the second, then
-
-8. When the market makes three pushes in one direction and then creates a reversal setup that triggers the reversal trade, the first target is the beginning of the pattern, and the next is a measured move based on the height of the pattern. For example, if there is a wedge top where the third push up e
-
-9. Wedges can be pullbacks or reversals. Wedge pullbacks are discussed in Chapters 18 and 19 in the second book. When they are pullbacks in trends, they are with-trend setups and it is reasonable to enter on the first signal. A wedge reversal is an attempt to reverse a trend and it is therefore a count
-
-10. Wedges are often opening reversal patterns. Opening reversals can follow very strong moves in the first hour or so, and sometimes there will be a very steep wedge with only slight pauses after the first two pushes, yet the market will abruptly reverse and trend for the rest of the day. The first pau
+### 重要注意事项
+- 测量运动是**最小目标**，实际运动可能超过。
+- 若形态失败（突破延续），则测量运动方向相反：楔形顶部失败后，目标为向上测量运动，高度同样等于楔形高度。
 
 ---
 
-## 📊 本章要点速查
+## 3. 关键区分：楔形 Pullback 与楔形 Reversal
 
-- **总段落数**: 73
-- **精选要点**: 25
-- **核心概念数**: 10
-- **关键词**: wedge, three-push, reversal, pattern, diagonal
+教材强调，楔形可分为两类，其交易逻辑截然不同：
+
+### 楔形 Pullback（顺趋势整理）
+- **性质**：趋势中的短暂整理，**与主要趋势方向一致**。
+- **出现位置**：上升趋势中的下跌楔形（bull flag），下降趋势中的上涨楔形（bear flag）。
+- **交易时机**：**可在第一信号入场**，因为是顺趋势交易。
+- **形态特征**：
+  - 通常较小，持续10-20根K线。
+  - 可能不明显，只要有三 pullbacks 即可。
+  - 不要求完美，常 subtle。
+- **方向**：
+  - 牛市旗形楔形：**向下倾斜**（pullback 下跌）。
+  - 熊市旗形楔形：**向上倾斜**（pullback 上涨）。
+
+### 楔形 Reversal（趋势反转）
+- **性质**：试图反转主要趋势，**逆趋势交易**。
+- **出现位置**：上升趋势末端（楔形顶部），下降趋势末端（楔形底部）。
+- **交易时机**：**通常等待第二信号**（如更低高点、更高低点），因为逆趋势交易风险更高。
+- **形态特征**：
+  - 通常较大，**至少20根K线**。
+  - 需有清晰趋势通道线（trend channel line）。
+  - 需要更强确认（如强 breakout、明显 climax）。
+- **方向**：
+  - 牛市顶部反转楔形：**向上倾斜**（第三次推动高于前两次）。
+  - 熊市底部反转楔形：**向下倾斜**（第三次推动低于前两次）。
+
+### 对比表格
+
+<table>
+  <thead>
+    <tr>
+      <th>特征</th>
+      <th>楔形 Pullback</th>
+      <th>楔形 Reversal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>趋势方向</strong></td>
+      <td>与主要趋势一致</td>
+      <td>与主要趋势相反</td>
+    </tr>
+    <tr>
+      <td><strong>交易性质</strong></td>
+      <td>顺趋势交易</td>
+      <td>逆趋势交易</td>
+    </tr>
+    <tr>
+      <td><strong>入场时机</strong></td>
+      <td>第一信号即可</td>
+      <td>通常等待第二信号（如 pullback 后的更高低点/更低高点）</td>
+    </tr>
+    <tr>
+      <td><strong>形态大小</strong></td>
+      <td>较小（10-20 根K线）</td>
+      <td>较大（≥20 根K线）</td>
+    </tr>
+    <tr>
+      <td><strong>形态要求</strong></td>
+      <td>不要求完美，三 pullbacks 即可</td>
+      <td>需清晰趋势通道线，明显 climax</td>
+    </tr>
+    <tr>
+      <td><strong>典型位置</strong></td>
+      <td>趋势中期的 flag</td>
+      <td>趋势末期顶部/底部</td>
+    </tr>
+    <tr>
+      <td><strong>方向示例</strong></td>
+      <td>牛市中的下跌楔形（向下）</td>
+      <td>牛市顶部的上涨楔形（向上）</td>
+    </tr>
+    <tr>
+      <td><strong>失败处理</strong></td>
+      <td>失败则趋势延续</td>
+      <td>失败则常有测量运动（反向）</td>
+    </tr>
+  </tbody>
+</table>
+
+### 例外情况
+- 在交易范围（trading range）内形成的楔形，可能更像 pullback，可考虑第一信号入场。
+- 若楔形反转的初始突破非常强，可在突破后 pullback 入场（视为 breakout pullback）。
 
 ---
 
-*自动生成于 2026-04-17*
+## 4. 市场心理与行为：为什么三推后常反转？
+
+三推形态的核心驱动力是市场参与者的**心理动态**与**行为模式**，尤其是** climax **与** urgency **。
+
+###  climax 与动能衰竭
+- **定义**： Climax 指市场在某一方向上的极端、加速运动，通常伴随**大趋势 bar**（large trend bars）和**连续高潮**（consecutive climaxes）。
+- **表现**：三次推动往往由强 spike（ spikes ）组成，每次 spike 后只有小 pullback，显示市场一边倒。
+- **心理**：
+  - 第一次 spike：趋势延续，参与者兴奋。
+  - 第二次 spike：部分参与者获利了结，但趋势信仰者仍相信。
+  - 第三次 spike：** climax **，大多数人已持仓，新资金犹豫，动能衰竭。
+
+###  Urgency （紧迫感）与趋势线斜率
+- **楔形形成机制**：当市场参与者感到 urgency，他们会在更小的 pullback 买入（牛市）或更小的 rally 卖出（熊市），导致**趋势线比趋势通道线更陡**。
+- **行为表现**：
+  - 牛市楔形顶部： bulls 在更小下跌中买入， bears 在更小上涨中卖出，双方都怕错过（fear of missing out），导致趋势线陡峭。
+  - 当第三次推动无法触及更陡趋势线时， bulls 失望（提前获利）， bears  urgency 做空，反转触发。
+
+### 概率与统计
+- **60% 概率**：教材指出，三次连续 climax 后，市场有**60%或更高概率**尝试更复杂修正（如两腿 pullback，持续10根以上K线）。
+- **两腿修正**：反转通常以两 legs 进行，每 leg 约10根K线。
+- **失败率**：在 strong trends 中，楔形反转尝试常失败，逆趋势交易需谨慎。
+
+### 交易者预期变化
+1. **第一次推动后**：趋势延续预期强。
+2. **第二次推动后**：部分人怀疑，但若 pullback 小，仍可能期待第三次。
+3. **第三次推动后**：
+   - 若突破前高失败或形成 double top，趋势交易者放弃。
+   - 反转交易者认为动能耗尽，开始布局反向交易。
+   - **关键点**：第三个 push 的**信号 bar**（如强 reversal bar）及**突破**（如下破 signal bar 低点）确认反转。
+
+---
+
+## 5. 楔形的几何特征、分类与识别
+
+### 基本定义
+- **楔形 = 趋势通道（trend channel） with 三 push**。
+- **构成要素**：
+  - **趋势线**（Trend Line）：连接各 push 的起始点（如 wedge 底部的 pullback 低点）。
+  - **趋势通道线**（Trend Channel Line）：连接各 push 的高点（顶部楔形）或低点（底部楔形）。
+- **形态变化**：趋势线与通道线可**收敛**（典型楔形）、**平行**（楼梯形态）或**发散**（扩张三角形）。**交易逻辑相同**。
+
+### 主要分类
+1. **标准楔形**（Wedge）
+   - 收敛：通道线与趋势线相交。
+   - 常见于趋势末期， reversal 概率高。
+
+2. **抛物线楔形**（Parabolic Wedge）
+   - **定义**：通道线斜率**陡于**趋势线斜率（即后期推动加速）。
+   - **意义**：极端 urgency， climax 行为，常导致快速反转。
+   - **识别**：比较通道线斜率——若连接第二、三 push 的通道线比连接第一、二 push 的更陡，则为抛物线楔形。
+   - **交易**：反转通常更快、更剧烈，两 legs 内完成。
+
+3. **微型楔形**（Micro Wedge）
+   - **定义**：由**三根连续K线**或五根内三根形成的楔形。
+   - **规模**：小，通常只导致 minor correction。
+   - **识别**：在小时间框架（如1分钟图）上明显；K线常有长尾（tails）。
+   - **交易**：仅适合 scalp，在 strong trend 中避免逆势。
+
+4. **收缩楼梯**（Shrinking Stairs）
+   - **定义**：三次推动中，每次突破幅度**小于**前一次（如第二 push 比第一 push 高10 ticks，第三 push 仅高7 ticks）。
+   - **意义**：**动能衰减**（waning momentum）， bulls 提前获利， bears 在更小突破时做空，增加反转概率。
+   - **交易**：增加两腿反转可能性，是强 reversal 信号。
+
+5. **楔形旗形**（Wedge Flag）
+   - 作为 pullback 的楔形，通常较小、较短。
+
+### 识别要点
+- **三 push 是关键**：即使形态不完美，只要有三 push，就按楔形交易。
+- **灵活性**：忽略K线尾（tails）以绘制更清晰趋势线；端点未触通道线仍可接受。
+- **与趋势通道线超买/超卖结合**：三推常伴随**趋势通道线 overshoot**（突破通道线后快速拉回），单独 overshoot 也是 reversal 信号。
+
+---
+
+## 6. 交易策略：入场时机与信号确认
+
+### 基本原则
+- **逆趋势交易（楔形 reversal）**：**等待第二信号**，除非形态 exceptionally strong。
+- **顺趋势交易（楔形 pullback）**：可第一信号入场。
+- **信号强度**：需评估 breakout 强度——强 breakout 更可能延续，弱 breakout 易失败。
+
+### 入场场景详解
+
+#### 场景A：楔形顶部反转（做空）
+1. **第一信号**：第三次 push 结束于强 bear reversal bar，随后K线**跌破该 reversal bar 低点**。
+   - **风险**：在 tight channel 或 strong bull trend 中，此信号常失败。
+   - **建议**：通常不立即入场，尤其当 channel tight。
+
+2. **第二信号（推荐）**：
+   - **更低高点**（Lower High）：反弹至楔形内部或顶部附近失败，形成 lower high。
+   - **突破回撤**（Breakout Pullback）：若初始突破强，等待回踩突破点（如下降趋势线）做空。
+   - **双顶/三重顶**：测试楔形顶部形成 double top 后回落。
+
+3. **入场后管理**：
+   - 第一腿快速下跌后，移动止损至 breakeven。
+   - 目标：第一目标楔形底部，第二目标测量运动。
+
+#### 场景B：楔形底部反转（做多）
+1. **第一信号**：第三次 push 结束于强 bull reversal bar，随后K线**突破该 bar 高点**。
+   - ** caution **：在 tight bear channel 中避免。
+
+2. **第二信号**：
+   - **更高低点**（Higher Low）：回踩楔形内部或底部形成 higher low。
+   - **突破回撤**：若初始突破强，等待回踩做多。
+
+#### 场景C：楔形失败后的交易
+- **定义**：突破触发后，价格**超越楔形极端**（如楔形顶部被突破）。
+- **后续**：
+  - 若突破强：视为新 breakout，目标测量运动（等于楔形高度，向上）。
+  - 若突破弱：预计失败，可**反向交易**（如楔形顶部失败后，在更高点做空）。
+- **第四推**：失败后常形成新 extreme（如更高高），可能成为新三推的一部分，需重新评估计数。
+
+### 信号强度评估
+- **强信号**：
+  - 大体积、大 body 的 reversal bar。
+  - 突破伴随大 K线、连续 bull/bear bodies。
+  - 超卖/超买区域（如触及移动平均、趋势线）。
+- **弱信号**：
+  - Doji、小 body、长尾。
+  - 在 tight channel 中。
+  - 无 climax 表现。
+
+### 日内特殊：开盘反转
+- **第一小时 steep wedge**：虽通常不推荐逆势，但**开盘 reversal** 可能可靠。
+- **特征**：三 push 极陡，仅微小 pause， abrupt 反转。
+- **交易**：若信号 bar 强，可考虑第一信号，但需快速行动。
+
+---
+
+## 7. 失败模式：楔形失败后的测量运动与后续走势
+
+### 楔形失败的定义
+- **楔形顶部失败**：价格突破楔形顶部（超越第三 push 高点）并持续。
+- **楔形底部失败**：价格跌破楔形底部（低于第三 push 低点）并持续。
+- **关键**：突破需**持续**，而非短暂刺穿后拉回。
+
+### 失败后的典型行为
+1. **测量运动**：
+   - 失败后，市场通常运行**约等于楔形高度**的测量运动。
+   - **方向**：与突破方向一致（顶部失败 → 向上测量；底部失败 → 向下测量）。
+   - **原理**：楔形是两方交易区域（类似交易范围），突破后常按范围高度运动。
+
+2. **后续模式**：
+   - 若突破强：测量运动可能 just the first leg，后续有 continuation。
+   - 若突破弱：测量运动后常反转，形成**更高高点 pullback**（顶部失败后）或**更低低点 pullback**（底部失败后），恢复原趋势。
+   - **示例**：楔形顶部触发做空，但价格快速拉回并突破楔形顶部——此为失败。随后可能上涨测量运动高度；若上涨乏力，则形成 higher high，成为新的做空点（原楔形成为更高高点 pullback）。
+
+### 失败的心理机制
+- **趋势交易者信心恢复**：突破显示原趋势力量仍存。
+- **反转交易者止损**：逆势头寸被止损，加剧突破方向运动。
+- **观望者加入**：突破确认后，原趋势追随者重新入场。
+
+### 交易失败后的策略
+- **承认错误**：若楔形 reversal 仓位被止损，**不要急于反向**。等待新 pattern 形成。
+- **评估突破强度**：
+  - 强突破（大 K线、连续 bodies）：可考虑顺突破方向交易（如顶部失败后做多）。
+  - 弱突破（小 body、长尾、快速拉回）：预计失败，可在突破点附近反向（如顶部失败后，在更高点做空）。
+- **关注 pullback**：失败后的首次 pullback 常是**更高高点/更低低点**，提供高概率反向交易机会。
+
+---
+
+## 8. 特殊变体：收缩楼梯、抛物线楔形、微型楔形
+
+### 收缩楼梯（Shrinking Stairs）
+- **定义**：三次推动中，每次突破幅度递减（如第一 push 涨10 ticks，第二 push 涨7 ticks，第三 push 涨5 ticks）。
+- **动能含义**：**明显动能衰减**（waning momentum）， bulls 提前获利， bears 在更小突破时做空。
+- **交易意义**：
+  - **显著增加两腿反转概率**。
+  - 是强 reversal 信号，即使形态不完美。
+- **案例**：Figure 5.3 中，bar 3 比 bar 2 高19美分，bar 6 仅比 bar 3 高12美分，显示上涨动能减弱，随后两腿下跌。
+
+### 抛物线楔形（Parabolic Wedge）
+- **定义**：趋势通道线斜率**陡于**趋势线斜率，即后期推动加速。
+- **成因**：极端 urgency， climax 行为。
+- **特征**：
+  - 形态更陡峭，常呈“ spike ”状。
+  - 反转通常更快、更剧烈。
+- **交易**：
+  - 反转目标常为两 legs，10 bars 内完成。
+  - 若反转发生，下跌/上涨速度常很快。
+- **案例**：Figure 5.7 中，bar 5 到 bar 9 的通道线比 bar 3 到 bar 5 更陡，为抛物线楔形顶部，随后快速两腿下跌。
+
+### 微型楔形（Micro Wedge）
+- **定义**：由**三根连续K线**或五根内三根形成的楔形。
+- **规模**：小，通常只导致 minor correction（几 ticks 到几 points）。
+- **识别**：
+  - K线常有长尾（tails），显示拒绝。
+  - 在小时间框架（1分钟图）上清晰。
+  - 可视为 micro trend channel。
+- **交易**：
+  - 仅适合 scalp，目标小。
+  - **在 strong trend 中避免逆势**：如强牛市中，微型楔形顶部常失败，应做多 pullback。
+  - 在交易范围底部/顶部，可能提供 reasonable scalp。
+- **案例**：教材描述：下跌趋势中，三根 bear trend bars 依次创新低且有尾，形成微型楔形。若在交易范围底部且第三根为 bull reversal bar，可考虑小多单。
+
+---
+
+## 9. 日内交易中的三推形态：开盘反转与交易范围
+
+### 开盘反转（Opening Reversals）
+- **特征**：第一小时内形成 steep wedge（三 push 极陡，仅微小 pause）。
+- **传统警告**：通常不推荐在开盘一小时后逆 steep wedge 交易。
+- **例外**：**开盘 reversal  setups 可能可靠**，尤其当：
+  - 三 push 非常陡，但 abrupt 反转发生。
+  - 信号 bar 强（如 bear reversal bar 后突破其低点）。
+- **案例**：Figure 5.2 显示，开盘三 push 上涨后，bar 12 突破 double top 失败，随后 bear inside bar 触发反转做空。尽管 wedge  steep，但作为开盘 reversal 可接受。
+
+### 交易范围（Trading Range）中的三推
+- **常见模式**：日内趋势常先有交易范围（数小时），后趋势恢复（into the close）。
+- **三推形态**：交易范围内可能出现三 push，但**不一定呈楔形**（如轻微上涨通道）。
+- **交易逻辑**：**与楔形 reversal 相同**——三 push 后常突破交易范围，延续原趋势。
+- **识别**：
+  - 三 push 后，突破方向常为原趋势方向（如熊市中，交易范围上沿三 push 后突破向下）。
+  - 即使无清晰楔形，也视为“ wedge-like ”行为。
+- **案例**：Figure 5.2 中，交易范围有三 push（bars 2,3,6），虽非完美楔形，但收缩楼梯特征明显，提供做空机会。
+
+### 日内关键原则
+- **不追求完美形状**：交易范围内三 push，即使无收敛，也按楔形逻辑交易。
+- **关注突破方向**：三 push 后突破交易范围的方向常预示收盘趋势。
+- **时间因素**：若三 push 发生在午后，可能只是震荡，需更强信号。
+
+---
+
+## 10. 案例深度解析：图表模式实战解读
+
+### Figure 5.1: Emini 60分钟楔形顶部
+- **形态**：清晰楔形顶部，三 push 至 bar 10。
+- **细节**：
+  - 第一 push：bar 6 高。
+  - 第二 push：bar 8 高（略高于趋势通道线）。
+  - 第三 push：bar 10 高（触及通道线后反转）。
+- **信号**：bar 10 后 bear bar 跌破 reversal bar 低点，触发做空。
+- **后续**：
+  - 第一腿下跌至 bar 12。
+  - 反弹形成 smaller wedge bear flag（三 push 至 bar 14，略低于 bar 10）。
+  - 第二腿大跌至 bar 20。
+- **教学点**：
+  - 楔形不完美仍有效（bar 8 高于通道线）。
+  - 反转后常有 smaller wedge pullback（bar 13-14），形成 double top 做空机会。
+  - 整体为 spike and channel 牛市，楔形顶部是典型 climax。
+
+### Figure 5.2: 开盘楔形与收缩楼梯
+- **背景**：开盘强 rally，三 push（bars 2,3,6）。
+- **关键**：
+  - bars 2→3：涨19美分。
+  - bars 3→6：仅涨12美分 → **收缩楼梯**，动能衰减。
+  - bar 6 后 bear bar 跌破，触发做空。
+- **其他模式**：
+  - bars 4 & 7：双底。
+  - bar 9：双底突破失败 → 第三 push down，楔形底部反转。
+- **教学点**：
+  - 收缩楼梯增强 reversal 概率。
+  - 三 push 可组合不同形态（双底+突破失败=第三 push）。
+  - 开盘三 push 若 steep，需谨慎，但此处有收缩，提供做空机会。
+
+### Figure 5.3: 收缩楼梯与楔形熊旗
+- **焦点**：bar 4 后下跌，但 bar 5 突破趋势线，预期测试低点。
+- **三 push**：
+  - bar 3 为第一 push down？争议：强下跌至 bar 2 可能重置计数。
+  - bar 4 为第二 push？bar 6 为第三 push（实际是楔形底部第三 push）。
+- **收缩**：bar 6 低于 bar 4，但幅度小，显示动能衰。
+- **后续**：bar 6 跌破 wedge bottom → **楔形失败**，随后强反弹（测量运动向上）。
+- **教学点**：
+  - 计数争议：强 second push 可能重置计数，导致第四 push。
+  - 楔形失败后常有测量运动（向上）。
+  - bar 6 后两 bar reversal + 突破失败，提供做多机会（失败 breakout 做多）。
+
+### Figure 5.4: SPY 日线楔形熊旗（更低高点）
+- **背景**：2000年3月顶部，长期牛市后。
+- **形态**：三 push 上涨至 bar 8，形成**更低高点**（lower high）楔形熊旗。
+  - 第一 push：bar 1 高。
+  - 第二 push：bar 2 高（双顶）。
+  - 第三 push：bar 8 高（略超 bar 2，但未触熊市通道线）。
+- **后续**：
+  - 从 bar 8 开始大跌（第一腿）。
+  - 反弹至 bar 8 附近形成 double top（第二腿卖点）。
+  - 最终大跌至 2003年双底。
+- **教学点**：
+  - 楔形熊旗在趋势末期常见，目标测试前低（bar 3 低）。
+  - 三 push 后即使未完美楔形，只要更高点失败，即可做空。
+  - 重大反转前常有交易范围形成（此处 bar 3-bar 8 为交易范围）。
+
+### Figure 5.5: 道指1987年 crash 前楔形
+- **复杂形态**：多重三 push 与 wedge 变体。
+- **关键结构**：
+  - 下跌至 bar 5 后，反弹形成三 push 至 bar 7（楔形熊旗/更低高点）。
+  - bar 1 为下跌楔形第一 push（随后两 push 形成 wedge bull flag）。
+- **行为**：
+  - bar 7 后大跌，触发 crash。
+  - bar 3 为 wedge bull flag 突破回撤买点（但随后失败）。
+- **教学点**：
+  - 同一图表可有多个三推形态（顶部楔形、底部楔形），交易者视角不同。
+  - Tight channel 中（如 bar 1 后通道），避免 early reversal 交易。
+  - 重大反转前，形态常不完美，需综合判断。
+
+### Figure 5.6: 未触通道线的楔形顶部
+- **形态**：bars 3,4,5 三 push 上涨，但 bar 5 **未触趋势通道线**。
+- **交易**：
+  - 作为楔形顶部，但未 overshoot，等待第二信号（更低高点）。
+  - bar 5 后小 bear spike，bar 6 为失败 high 2，提供做空机会。
+- **后续**：bar 6 后五 bar bear spike，强趋势下跌。
+- **教学点**：
+  - 楔形顶部未触通道线仍有效，但需第二信号确认。
+  - 失败的高 2 是强逆势信号。
+  - 通道内大 swings 表明两方交易，趋势不 strong， reversal 可能。
+
+### Figure 5.7: 抛物线楔形与 breakout 失败
+- **形态**：bar 9 为第三 push up，通道线斜率陡于前期 → **抛物线楔形**。
+- **突破**：bar 9 突破 bull channel（虚线），但 bar 10 快速拉回通道内。
+- **行为**：
+  - 突破通道后5根内拉回，50%概率继续突破通道下边（此处发生）。
+  - bar 16 双底，反弹测试 bar 9 高点。
+- **教学点**：
+  - 抛物线楔形反转常两 legs。
+  - 突破 channel 后快速拉回，常预示反向突破。
+  - 测量运动目标（bar 9 高度）达成后，反弹至 moving average 合理。
+
+### Figure 5.8: 抛物线楔形底部与失败 breakout
+- **左图（做空）**：
+  - bar 4 后 weak low 2，bar 6 为 high 2 买点（突破 pullback）。
+  - bar 7 为第二 push up，但 breakout 弱，形成 bull flag。
+  - bar 8 突破 flag 失败（向下 breakout），成为 final flag reversal，提供做空机会。
+  - **抛物线**：bar 4-bar 7 通道线更陡。
+- **右图（做多）**：
+  - bar 15 强 bull bar 双底，触发做多。
+  - bar 16 为 pullback，但 bears 视其为 breakout pullback 做空。
+  - bar 17 小 reversal bar，预期再一 push down（第一尝试常失败）。
+  - bar 18 双底，强 bull bar，做多。
+  - bar 19 在 moving average 和低 2 短点受阻，bulls 获利了结，随后下跌。
+- **教学点**：
+  - 失败 breakout（如 bar 8 向下突破 flag）可提供 reversal 信号。
+  - 第一 reversal 尝试（bar 17）常失败，需第二确认（bar 18）。
+  - 阻力/支撑位（moving average、前低）常导致反转。
+
+### Figure 5.9: 失败的楔形底部
+- **形态**：三 push down（bar 1,2,3），但 bar 3 为**连续第四根重叠 bar**，显示**接受低价**而非拒绝。
+- **关键**：重叠 bars 表明市场 comfortable 于更低价格，非 reversal 信号。
+- **结果**：楔形失败，继续下跌约**楔形高度**的测量运动。
+- **教学点**：
+  - 三 push 需有**拒绝迹象**（如 reversal bars、突破 pullback），仅 push 不足。
+  - 重叠 bars 在下跌趋势中意味 acceptance，应等待更高低点。
+  - 失败楔形常快速测量运动。
+
+### Figure 5.10: 过紧的楔形底部
+- **背景**：开盘 gap down 强熊市。
+- **形态**：bar 6 看似楔形底部（三 push down：bar 2,4,6），但：
+  - 通道**过紧**（tight bear channel）。
+  - 无 prior bull strength（无大 bull bars、无趋势线突破）。
+  - bar 3 为失败趋势线突破。
+- **结果**：bar 6 后仅小反弹（scalp），随后第二腿大跌至 bar 12。
+- **教学点**：
+  - **tight channel 中的楔形极少成功**：应等待趋势线突破或更高低点。
+  - 无动能反转（如强 bull bar）的楔形，仅为 minor pullback。
+  - 三 push 在 tight trend 中常延续，非 reversal。
+
+### Figure 5.11: 楔形但紧通道
+- **形态**：bar 9 为第三 push down，趋势通道线 overshoot，但：
+  - 在**紧熊市通道**中。
+  - bar 9 为 weak reversal bar（小 bull body、重叠 prior bar）。
+  - 无清晰拒绝（未触通道线即拉回）。
+- **后续**：
+  - bar 10 为 one-tick 失败，显示无买盘。
+  - bar 11 低 1 做空？但在交易范围中，无强 bull trap 不短。
+  - bar 12 为第三 one-tick 失败，但此时已有两 legs up（bars 9,11），成为**低 2 做空**（熊旗）。
+- **结果**：bar 12 后大跌，测量运动达成。
+- **教学点**：
+  - Tight channel 中，即使三 push 和 overshoot，也需等待第二信号（如 bar 12 低 2）。
+  - 连续小失败（one-tick）显示无买盘，反转概率低，应顺势做空。
+  - 重叠 bars 意味 acceptance，非 rejection。
+
+### Figure 5.12: 连续一 tick 突破
+- **现象**：连续微小突破（一 tick）形成三 push。
+- **示例**：
+  - 上涨：bar 4 高1 tick 超 bar 3，bar 5 高1 tick 超 bar 4 → 微型楔形。若后续突破 bar 5，则楔形失败，向上 breakout。
+  - 下跌：bar 2 低1 tick 超 bar 1，bar 6 低1 tick 超 bar 2，随后 bar 7 跌破 bar 6 → 向下 breakout，测量运动大幅超出。
+- **意义**：
+  - 微小突破显示**动能极弱**，但三 push 结构仍有效。
+  - 突破后常至少有测量运动（范围高度）。
+- **案例**：bar 8 微型楔形底部，设置一 bar bear flag，但仅 pause，非 reversal（强熊市中）。
+- **教学点**：
+  - 即使突破幅度小，三 push 结构提供交易框架。
+  - 测量运动目标可估算（交易范围高度）。
+  - 在 strong trend 中，微型楔形常失败，应顺势交易。
+
+---
+
+## 11. 常见错误与交易检查清单
+
+### 常见错误（Pitfalls）
+1. **在紧趋势（tight trend）中逆势**：
+   - Tight bull/bear channel 中，三 push 常延续而非反转。
+   - 错误：在 tight channel 中基于三 push 做反转。
+   - 正确：等待趋势线突破或更强信号。
+
+2. **不等待第二信号**：
+   - 尤其对于楔形 reversal，第一信号成功率较低（~40%），第二信号（如更低高点）成功率更高（~60%+）。
+   - 错误：楔形顶部一突破信号 bar 就做空。
+
+3. **忽略趋势线突破**：
+   - 三 push 需伴随**趋势线突破**才增强反转概率。
+   - 错误：仅三 push 但价格仍守稳趋势线即入场。
+
+4. **过度追求完美形态**：
+   - 等待完美楔形（收敛、对称）会错过交易。
+   - 错误：因形态不完美（如 bar 未触通道线）而忽略有效信号。
+
+5. **在强趋势中寻找 reversal**：
+   - Strong bull/bear trend 中，楔形 reversal 常失败，应做 pullback。
+   - 错误：在强牛市中每次楔形顶部都做空。
+
+6. **忽略动能指标**：
+   - 未评估 push 强度（如 bar size、volume）。
+   - 错误：小 push、小 body 的楔形当强 reversal。
+
+7. **未设止损或移动止损**：
+   - 楔形失败常见，需快速止损。
+   - 错误：入场后不止损，或未在 first leg 后移动至 breakeven。
+
+### 交易前检查清单
+在交易任何三推形态前，问以下问题：
+
+#### 形态确认
+- [ ] **是否确有三 push**？三 push 是否清晰（即使不完美）？
+- [ ] **是否 climax 行为**？推动是否由大趋势 bar 组成？是否有连续高潮？
+- [ ] **趋势线是否突破**？价格是否跌破/突破关键趋势线？
+- [ ] **是否趋势通道线 overshoot**？价格是否短暂突破通道线后拉回？（增强信号）
+- [ ] **形态大小**：是否 ≥20 根K线（reversal）或 10-20 根（pullback）？
+
+#### 信号强度
+- [ ] **信号 bar 是否强**？是否为 reversal bar（大 body、突破 prior bar）？
+- [ ] **突破是否伴随连续 bodies**？ breakout bar 后是否有 follow-through？
+- [ ] **是否在交易范围或趋势末期**？三 push 是否发生在显著极端？
+
+#### 市场上下文
+- [ ] **主要趋势方向**？是顺趋势（pullback）还是逆趋势（reversal）？
+- [ ] **趋势强度**：是 strong trend（避免 early reversal）还是 weakening（更可能 reversal）？
+- [ ] **时间框架**：是否为日内开盘（可能接受 steep wedge）？是否为日线级别（需更强确认）？
+- [ ] **有无收缩楼梯**？突破幅度是否递减？（增强 reversal 概率）
+- [ ] **有无抛物线特征**？通道线是否陡于趋势线？（ climax，快速反转预期）
+
+#### 入场与风控
+- [ ] **入场时机**：若逆趋势，是否等待第二信号（更低高点/更高低点）？
+- [ ] **止损位置**：是否设在楔形极端外合理距离？
+- [ ] **目标设定**：是否设定第一目标（形态起点）和第二目标（测量运动）？
+- [ ] **失败预案**：若价格超越楔形极端，是否计划反向或观望？
+
+---
+
+## 12. 总结：核心原则与交易者心态
+
+### 核心原则重申
+1. **统一性**：所有三推形态（楔形、 triple top、 head and shoulders 等）交易逻辑相同——**三次推动后，趋势常反转或修正**。勿纠结名称。
+2. **目标明确**：第一目标形态起点，第二目标测量运动（高度≈楔形高度）。
+3. **区分 pullback/reversal**：
+   - Pullback：顺趋势，第一信号可入场。
+   - Reversal：逆趋势，**耐心等第二信号**。
+4. **动能优先**：关注 climax bars、收缩楼梯、抛物线特征——这些指示 urgency 和衰竭。
+5. **灵活性**：形态不完美仍可交易；若 overshoot 趋势通道线，概率更高。
+6. **失败即新机会**：楔形失败后，常有反向测量运动，可交易 breakout 或 pullback。
+
+### 交易者心态与决策
+- **接受不确定性**：三 push 后 reversal 概率约60%，非100%。需风险管理和仓位控制。
+- **快速决策**： climax 反转常快速，理解 urgency 可助 early entry。
+- **避免固执**：若楔形失败（价格突破极端），立即承认错误，调整计划。勿“证明自己正确”。
+- **概率思维**：评估交易者方程（reward:risk）。第一信号可能 reward 大但概率低（~40%）；第二信号概率高（~60%+）但 reward 可能小。
+- **市场为尊**：始终看价格行为。若强趋势持续，勿对抗；若 weak signal 出现，跳过。
+
+### 最终建议
+- **简化分析**：将多数三推形态视为“楔形”，聚焦三 push 结构、 climax、趋势线突破。
+- **多时间框架验证**：日线楔形需更确认；1分钟图微型楔形仅 scalp。
+- **结合其他信号**：三推形态与支撑/阻力、移动平均、 prior day high/low 结合，增强可靠性。
+- **持续练习**：通过图表回顾（如本书案例）培养对三推形态的直觉识别。
+
+**记住**：最成功的交易者不是识别所有形态，而是**只交易高概率、高 reward:risk 的设置**，并严格遵循计划。楔形与三推形态提供框架，但最终决策需综合市场上下文、信号强度和个人风险偏好。保持弹性，让价格行为指引交易。

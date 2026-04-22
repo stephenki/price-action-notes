@@ -1,17 +1,18 @@
 ---
 layout: sidebar
-title: "Chapter 16 - 价格行为学习 - 2026-04-09"
+title: "Chapter 16 学习总结"
 chapter: 16
 ---
-nav_title: "价格行为学习 - 2026-04-09"
 
-# Chapter 16 - 价格行为学习 - 2026-04-09
+# 📚 价格行为学习总结 - Chapter 16: Reversals（反转）
 
-> 原始文件: 2026-04-09.md
-> 整理时间: 2026-04-17
+**教材**: Al Brooks《Trading Price Action Trading Ranges》Chapter 16  
+**提取来源**: ~/.hermes/cache/documents/Trading Price Action - Trends (Z-Library).epub  
+**原始提取**: `/tmp/chapter16_full_extract.txt`
 
 ---
 
+## 📖 本章核心概念
 
 ## 今日学习内容
 - **章节**：Chapter 16 - Reversals（反转）

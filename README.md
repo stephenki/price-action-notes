@@ -25,6 +25,18 @@
 
 ```
 ├── README.md
+├── chapter-1.md  # Example of How to Trade a Reversal
+├── chapter-2.md  # Signs of Strength in a Reversal
+├── chapter-3.md  # Major Trend Reversal
+├── chapter-4.md  # Climactic Reversals
+├── chapter-5.md  # Wedges and Other Three-Push Reversal Patterns
+├── chapter-6.md  # Expanding Triangles
+├── chapter-7.md  # Final Flags
+├── chapter-8.md  # Double Top and Bottom Pullbacks
+├── chapter-9.md  # Failures
+├── chapter-10.md  # Huge Volume Reversals on Daily Charts
+├── chapter-11.md  # Key Times of the Day
+├── chapter-12.md  # Markets
 ├── chapter-13.md  # Triangles and Flags（已合并）
 ├── chapter-14.md  # Parabolic and Overtrading
 ├── chapter-15.md  # Pullbacks
@@ -47,18 +59,18 @@
 ## 🎯 核心主题索引
 | 章节 | 主题 | 状态 | 大小 |
 |---|---|---|---|
-| 1 | 如何交易反转示例 | ✅ | 17.0 KB |
-| 2 | 反转的强势信号 | ✅ | 6.6 KB |
-| 3 | 主要趋势反转 | ✅ | 30.7 KB |
-| 4 | 高潮反转形态 | ✅ | 31.3 KB |
-| 5 | 楔形与三推反转形态 | ✅ | 29.1 KB |
-| 6 | 扩大三角形态 | ✅ | 13.3 KB |
-| 7 | 最终旗形 | ✅ | 33.9 KB |
-| 8 | 双顶双底回调 | ✅ | 17.9 KB |
-| 9 | 失败形态分析 | ✅ | 20.4 KB |
-| 10 | 日线巨量反转 | ✅ | 7.0 KB |
-| 11 | 关键交易时段 | ✅ | 21.2 KB |
-| 12 | 市场环境因素 | ✅ | 5.5 KB |
+| 1 | 如何交易反转示例 | ✅ | 12.4 KB |
+| 2 | 反转的强势信号 | ✅ | 28.0 KB |
+| 3 | 主要趋势反转 | ✅ | 34.1 KB |
+| 4 | 高潮反转形态 | ✅ | 26.0 KB |
+| 5 | 楔形与三推反转形态 | ✅ | 32.5 KB |
+| 6 | 扩大三角形态 | ✅ | 40.4 KB |
+| 7 | 最终旗形 | ✅ | 39.9 KB |
+| 8 | 双顶双底回调 | ✅ | 20.7 KB |
+| 9 | 失败形态分析 | ✅ | 27.9 KB |
+| 10 | 日线巨量反转 | ✅ | 18.8 KB |
+| 11 | 关键交易时段 | ✅ | 25.9 KB |
+| 12 | 市场环境因素 | ✅ | 22.0 KB |
 | 13 | 持续形态（三角、旗形）合并版 | ✅ | 14.0 KB |
 | 14 | 抛物线运动与过度交易 | ✅ | 12.2 KB |
 | 15 | 回调类型与入场策略 | ✅ | 18.7 KB |
@@ -72,29 +84,6 @@
 | 23 | 期权基础与价格行为 | ✅ | 8.2 KB |
 | 24 | 全书总结：最佳交易 | ✅ | 10.7 KB |
 | 25 | 交易指南：准则与哲学 | ✅ | 6.8 KB |
-
-## 🔧 学习方式
-
-### 自动化流程
-
-1. **每日学习** (6:00 AM cron)
-   - 通过 Hermes Agent 自动执行
-   - 从 EPUB 教材提取章节内容
-   - AI 生成结构化学习笔记
-   - 同步更新进度追踪
-
-2. **EPUB 来源**
-   - Book 3 (Trends): `Trading Price Action - Trends (Z-Library).epub`
-   - 使用 Python + zipfile 解析，提取 HTML 内容
-   - 通过关键词提取精华段落
-
-3. **笔记格式**
-   - 章节核心概念提取
-   - 原文精华片段（25+ 段/章）
-   - 交易应用要点
-   - 关联章节索引
-
----
 
 ## 📊 进度追踪
 
@@ -121,5 +110,5 @@
 
 **最后更新**: 2026-04-17
 **学习系统**: Hermes Agent v0.10.0 + EPUB 自动提取
-**总笔记数**: 13 个章节
-**总大小**: ~192 KB
+**总笔记数**: 25 个章节
+**总大小**: ~543 KB
